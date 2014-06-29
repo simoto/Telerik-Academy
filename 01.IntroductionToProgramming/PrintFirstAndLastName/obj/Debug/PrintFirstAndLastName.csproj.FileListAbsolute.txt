@@ -1,0 +1,1 @@
+c:\users\simo\documents\visual studio 2013\Projects\Solution2\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config

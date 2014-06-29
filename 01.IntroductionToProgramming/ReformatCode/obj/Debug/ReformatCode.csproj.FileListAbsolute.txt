@@ -1,0 +1,5 @@
+c:\users\simo\documents\visual studio 2013\Projects\Solution2\ReformatCode\bin\Debug\ReformatCode.exe.config
+c:\users\simo\documents\visual studio 2013\Projects\Solution2\ReformatCode\bin\Debug\ReformatCode.exe
+c:\users\simo\documents\visual studio 2013\Projects\Solution2\ReformatCode\bin\Debug\ReformatCode.pdb
+c:\users\simo\documents\visual studio 2013\Projects\Solution2\ReformatCode\obj\Debug\ReformatCode.exe
+c:\users\simo\documents\visual studio 2013\Projects\Solution2\ReformatCode\obj\Debug\ReformatCode.pdb

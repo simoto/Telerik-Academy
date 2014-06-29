@@ -1,0 +1,5 @@
+c:\users\simo\documents\visual studio 2013\Projects\Solution2\PrintASequence\bin\Debug\PrintASequence.exe.config
+c:\users\simo\documents\visual studio 2013\Projects\Solution2\PrintASequence\bin\Debug\PrintASequence.exe
+c:\users\simo\documents\visual studio 2013\Projects\Solution2\PrintASequence\bin\Debug\PrintASequence.pdb
+c:\users\simo\documents\visual studio 2013\Projects\Solution2\PrintASequence\obj\Debug\PrintASequence.exe
+c:\users\simo\documents\visual studio 2013\Projects\Solution2\PrintASequence\obj\Debug\PrintASequence.pdb

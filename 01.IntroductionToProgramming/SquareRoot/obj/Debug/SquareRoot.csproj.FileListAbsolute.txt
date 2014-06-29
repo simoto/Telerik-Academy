@@ -1,0 +1,5 @@
+c:\users\simo\documents\visual studio 2013\Projects\Solution2\SquareRoot\bin\Debug\SquareRoot.exe.config
+c:\users\simo\documents\visual studio 2013\Projects\Solution2\SquareRoot\bin\Debug\SquareRoot.exe
+c:\users\simo\documents\visual studio 2013\Projects\Solution2\SquareRoot\bin\Debug\SquareRoot.pdb
+c:\users\simo\documents\visual studio 2013\Projects\Solution2\SquareRoot\obj\Debug\SquareRoot.exe
+c:\users\simo\documents\visual studio 2013\Projects\Solution2\SquareRoot\obj\Debug\SquareRoot.pdb
