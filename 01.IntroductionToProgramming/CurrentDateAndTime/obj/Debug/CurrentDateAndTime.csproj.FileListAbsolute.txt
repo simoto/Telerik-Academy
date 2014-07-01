@@ -1,5 +1,0 @@
-c:\users\simo\documents\visual studio 2013\Projects\Solution2\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
-c:\users\simo\documents\visual studio 2013\Projects\Solution2\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
-c:\users\simo\documents\visual studio 2013\Projects\Solution2\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
-c:\users\simo\documents\visual studio 2013\Projects\Solution2\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
-c:\users\simo\documents\visual studio 2013\Projects\Solution2\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb

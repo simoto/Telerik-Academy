@@ -1,5 +1,0 @@
-c:\users\simo\documents\visual studio 2013\Projects\Solution2\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
-c:\users\simo\documents\visual studio 2013\Projects\Solution2\PrintLongSequence\bin\Debug\PrintLongSequence.exe
-c:\users\simo\documents\visual studio 2013\Projects\Solution2\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
-c:\users\simo\documents\visual studio 2013\Projects\Solution2\PrintLongSequence\obj\Debug\PrintLongSequence.exe
-c:\users\simo\documents\visual studio 2013\Projects\Solution2\PrintLongSequence\obj\Debug\PrintLongSequence.pdb
