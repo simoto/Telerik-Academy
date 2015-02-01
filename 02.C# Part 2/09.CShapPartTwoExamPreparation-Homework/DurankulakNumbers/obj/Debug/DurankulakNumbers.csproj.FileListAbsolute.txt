@@ -1,0 +1,2 @@
+c:\users\simoo\documents\visual studio 2012\Projects\CShapPartTwoExamPreparation-Homework\DurankulakNumbers\bin\Debug\DurankulakNumbers.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\09.CShapPartTwoExamPreparation-Homework\DurankulakNumbers\bin\Debug\DurankulakNumbers.exe.config

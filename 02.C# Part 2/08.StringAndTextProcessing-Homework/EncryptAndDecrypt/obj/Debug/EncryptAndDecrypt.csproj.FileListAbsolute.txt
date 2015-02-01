@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\EncryptAndDecrypt\bin\Debug\EncryptAndDecrypt.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\EncryptAndDecrypt\bin\Debug\EncryptAndDecrypt.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\EncryptAndDecrypt\bin\Debug\EncryptAndDecrypt.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.csprojResolveAssemblyReference.cache
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\EncryptAndDecrypt\obj\Debug\EncryptAndDecrypt.pdb

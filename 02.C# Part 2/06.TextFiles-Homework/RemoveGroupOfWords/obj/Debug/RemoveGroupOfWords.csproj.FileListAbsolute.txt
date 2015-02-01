@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\RemoveGroupOfWords\bin\Debug\RemoveGroupOfWords.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\RemoveGroupOfWords\bin\Debug\RemoveGroupOfWords.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\RemoveGroupOfWords\bin\Debug\RemoveGroupOfWords.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\RemoveGroupOfWords\obj\Debug\RemoveGroupOfWords.csprojResolveAssemblyReference.cache
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\RemoveGroupOfWords\obj\Debug\RemoveGroupOfWords.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\RemoveGroupOfWords\obj\Debug\RemoveGroupOfWords.pdb

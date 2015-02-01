@@ -1,0 +1,6 @@
+c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\ChangeTextBetweenTags\bin\Debug\ChangeTextBetweenTags.exe.config
+c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\ChangeTextBetweenTags\bin\Debug\ChangeTextBetweenTags.exe
+c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\ChangeTextBetweenTags\bin\Debug\ChangeTextBetweenTags.pdb
+c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\ChangeTextBetweenTags\obj\Debug\ChangeTextBetweenTags.csprojResolveAssemblyReference.cache
+c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\ChangeTextBetweenTags\obj\Debug\ChangeTextBetweenTags.exe
+c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\ChangeTextBetweenTags\obj\Debug\ChangeTextBetweenTags.pdb

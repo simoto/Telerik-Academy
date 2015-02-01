@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ConvertToAnyNumeralSystem\bin\Debug\ConvertToAnyNumeralSystem.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ConvertToAnyNumeralSystem\bin\Debug\ConvertToAnyNumeralSystem.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ConvertToAnyNumeralSystem\bin\Debug\ConvertToAnyNumeralSystem.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ConvertToAnyNumeralSystem\obj\Debug\ConvertToAnyNumeralSystem.csprojResolveAssemblyReference.cache
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ConvertToAnyNumeralSystem\obj\Debug\ConvertToAnyNumeralSystem.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ConvertToAnyNumeralSystem\obj\Debug\ConvertToAnyNumeralSystem.pdb

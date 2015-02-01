@@ -1,0 +1,10 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\AlphabetArray\bin\Debug\AlphabetArray.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\AlphabetArray\bin\Debug\AlphabetArray.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\AlphabetArray\bin\Debug\AlphabetArray.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\AlphabetArray\obj\Debug\AlphabetArray.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\AlphabetArray\obj\Debug\AlphabetArray.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\AlphabetArray\bin\Debug\AlphabetArray.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\AlphabetArray\obj\Debug\AlphabetArray.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\AlphabetArray\obj\Debug\AlphabetArray.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\AlphabetArray\bin\Debug\AlphabetArray.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\AlphabetArray\bin\Debug\AlphabetArray.pdb

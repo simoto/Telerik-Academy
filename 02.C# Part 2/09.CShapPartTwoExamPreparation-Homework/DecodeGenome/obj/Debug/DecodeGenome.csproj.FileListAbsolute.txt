@@ -1,0 +1,8 @@
+c:\users\simoo\documents\visual studio 2012\Projects\CShapPartTwoExamPreparation-Homework\DecodeGenome\bin\Debug\DecodeGenome.exe.config
+c:\users\simoo\documents\visual studio 2012\Projects\CShapPartTwoExamPreparation-Homework\DecodeGenome\bin\Debug\DecodeGenome.exe
+c:\users\simoo\documents\visual studio 2012\Projects\CShapPartTwoExamPreparation-Homework\DecodeGenome\bin\Debug\DecodeGenome.pdb
+c:\users\simoo\documents\visual studio 2012\Projects\CShapPartTwoExamPreparation-Homework\DecodeGenome\obj\Debug\DecodeGenome.exe
+c:\users\simoo\documents\visual studio 2012\Projects\CShapPartTwoExamPreparation-Homework\DecodeGenome\obj\Debug\DecodeGenome.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\09.CShapPartTwoExamPreparation-Homework\DecodeGenome\bin\Debug\DecodeGenome.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\09.CShapPartTwoExamPreparation-Homework\DecodeGenome\obj\Debug\DecodeGenome.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\09.CShapPartTwoExamPreparation-Homework\DecodeGenome\obj\Debug\DecodeGenome.pdb

@@ -1,0 +1,8 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ReplaceForbiddenWords\bin\Debug\ReplaceForbiddenWords.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ReplaceForbiddenWords\bin\Debug\ReplaceForbiddenWords.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ReplaceForbiddenWords\bin\Debug\ReplaceForbiddenWords.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ReplaceForbiddenWords\obj\Debug\ReplaceForbiddenWords.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ReplaceForbiddenWords\obj\Debug\ReplaceForbiddenWords.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ReplaceForbiddenWords\bin\Debug\ReplaceForbiddenWords.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ReplaceForbiddenWords\obj\Debug\ReplaceForbiddenWords.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ReplaceForbiddenWords\obj\Debug\ReplaceForbiddenWords.pdb

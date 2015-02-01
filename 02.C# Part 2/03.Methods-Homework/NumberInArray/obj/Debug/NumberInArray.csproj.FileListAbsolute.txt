@@ -1,0 +1,5 @@
+c:\users\simoo\documents\visual studio 2012\Projects\Methods-Homework\NumberInArray\bin\Debug\NumberInArray.exe.config
+c:\users\simoo\documents\visual studio 2012\Projects\Methods-Homework\NumberInArray\bin\Debug\NumberInArray.exe
+c:\users\simoo\documents\visual studio 2012\Projects\Methods-Homework\NumberInArray\bin\Debug\NumberInArray.pdb
+c:\users\simoo\documents\visual studio 2012\Projects\Methods-Homework\NumberInArray\obj\Debug\NumberInArray.exe
+c:\users\simoo\documents\visual studio 2012\Projects\Methods-Homework\NumberInArray\obj\Debug\NumberInArray.pdb

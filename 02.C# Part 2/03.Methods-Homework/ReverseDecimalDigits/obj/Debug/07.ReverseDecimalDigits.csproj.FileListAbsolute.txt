@@ -1,0 +1,9 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\ReverseDecimalDigits\bin\Debug\ReverseDecimalDigits.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\ReverseDecimalDigits\obj\Debug\ReverseDecimalDigits.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\ReverseDecimalDigits\obj\Debug\ReverseDecimalDigits.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\ReverseDecimalDigits\bin\Debug\ReverseDecimalDigits.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\ReverseDecimalDigits\bin\Debug\ReverseDecimalDigits.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\ReverseDecimalDigits\obj\Debug\07.ReverseDecimalDigits.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\ReverseDecimalDigits\bin\Debug\ReverseDecimalDigits.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\ReverseDecimalDigits\obj\Debug\ReverseDecimalDigits.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\ReverseDecimalDigits\obj\Debug\ReverseDecimalDigits.pdb

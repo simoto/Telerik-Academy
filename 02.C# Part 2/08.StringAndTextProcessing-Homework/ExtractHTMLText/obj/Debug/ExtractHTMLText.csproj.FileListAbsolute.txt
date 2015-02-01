@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractHTMLText\bin\Debug\ExtractHTMLText.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractHTMLText\bin\Debug\ExtractHTMLText.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractHTMLText\bin\Debug\ExtractHTMLText.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractHTMLText\obj\Debug\ExtractHTMLText.csprojResolveAssemblyReference.cache
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractHTMLText\obj\Debug\ExtractHTMLText.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractHTMLText\obj\Debug\ExtractHTMLText.pdb

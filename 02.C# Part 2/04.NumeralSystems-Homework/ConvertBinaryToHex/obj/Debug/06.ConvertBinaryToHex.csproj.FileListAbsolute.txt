@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ConvertBinaryToHex\bin\Debug\ConvertBinaryToHex.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ConvertBinaryToHex\obj\Debug\ConvertBinaryToHex.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ConvertBinaryToHex\obj\Debug\ConvertBinaryToHex.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\04.NumeralSystems-Homework\ConvertBinaryToHex\bin\Debug\ConvertBinaryToHex.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\04.NumeralSystems-Homework\ConvertBinaryToHex\obj\Debug\ConvertBinaryToHex.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\04.NumeralSystems-Homework\ConvertBinaryToHex\obj\Debug\ConvertBinaryToHex.pdb

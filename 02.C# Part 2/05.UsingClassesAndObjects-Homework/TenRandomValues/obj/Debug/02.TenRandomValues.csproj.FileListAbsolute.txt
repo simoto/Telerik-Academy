@@ -1,0 +1,9 @@
+c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\TenRandomValues\bin\Debug\TenRandomValues.exe.config
+c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\TenRandomValues\obj\Debug\TenRandomValues.exe
+c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\TenRandomValues\obj\Debug\TenRandomValues.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\05.UsingClassesAndObjects-Homework\TenRandomValues\bin\Debug\TenRandomValues.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\05.UsingClassesAndObjects-Homework\TenRandomValues\obj\Debug\TenRandomValues.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\05.UsingClassesAndObjects-Homework\TenRandomValues\obj\Debug\TenRandomValues.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\05.UsingClassesAndObjects-Homework\TenRandomValues\bin\Debug\TenRandomValues.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\05.UsingClassesAndObjects-Homework\TenRandomValues\bin\Debug\TenRandomValues.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\05.UsingClassesAndObjects-Homework\TenRandomValues\obj\Debug\02.TenRandomValues.csprojResolveAssemblyReference.cache

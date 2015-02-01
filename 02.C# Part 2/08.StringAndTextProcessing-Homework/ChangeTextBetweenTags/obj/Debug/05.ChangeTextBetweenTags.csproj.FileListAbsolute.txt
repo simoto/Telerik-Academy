@@ -1,0 +1,9 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ChangeTextBetweenTags\bin\Debug\ChangeTextBetweenTags.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ChangeTextBetweenTags\obj\Debug\ChangeTextBetweenTags.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ChangeTextBetweenTags\obj\Debug\ChangeTextBetweenTags.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ChangeTextBetweenTags\bin\Debug\ChangeTextBetweenTags.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ChangeTextBetweenTags\obj\Debug\ChangeTextBetweenTags.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ChangeTextBetweenTags\obj\Debug\ChangeTextBetweenTags.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ChangeTextBetweenTags\bin\Debug\ChangeTextBetweenTags.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ChangeTextBetweenTags\bin\Debug\ChangeTextBetweenTags.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ChangeTextBetweenTags\obj\Debug\05.ChangeTextBetweenTags.csprojResolveAssemblyReference.cache

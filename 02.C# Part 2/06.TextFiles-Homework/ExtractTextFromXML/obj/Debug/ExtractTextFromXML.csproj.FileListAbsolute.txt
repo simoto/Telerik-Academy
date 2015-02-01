@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ExtractTextFromXML\bin\Debug\ExtractTextFromXML.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ExtractTextFromXML\bin\Debug\ExtractTextFromXML.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ExtractTextFromXML\bin\Debug\ExtractTextFromXML.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ExtractTextFromXML\obj\Debug\ExtractTextFromXML.csprojResolveAssemblyReference.cache
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ExtractTextFromXML\obj\Debug\ExtractTextFromXML.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ExtractTextFromXML\obj\Debug\ExtractTextFromXML.pdb

@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractMailAddress\bin\Debug\ExtractMailAddress.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractMailAddress\obj\Debug\ExtractMailAddress.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractMailAddress\obj\Debug\ExtractMailAddress.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ExtractMailAddress\bin\Debug\ExtractMailAddress.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ExtractMailAddress\obj\Debug\ExtractMailAddress.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ExtractMailAddress\obj\Debug\ExtractMailAddress.pdb

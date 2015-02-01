@@ -1,0 +1,9 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ReverseWordsInSentence\bin\Debug\ReverseWordsInSentence.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ReverseWordsInSentence\bin\Debug\ReverseWordsInSentence.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ReverseWordsInSentence\bin\Debug\ReverseWordsInSentence.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ReverseWordsInSentence\obj\Debug\13.ReverseWordsInSentence.csprojResolveAssemblyReference.cache
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ReverseWordsInSentence\obj\Debug\ReverseWordsInSentence.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ReverseWordsInSentence\obj\Debug\ReverseWordsInSentence.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ReverseWordsInSentence\bin\Debug\ReverseWordsInSentence.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ReverseWordsInSentence\obj\Debug\ReverseWordsInSentence.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ReverseWordsInSentence\obj\Debug\ReverseWordsInSentence.pdb

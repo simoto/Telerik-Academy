@@ -1,0 +1,6 @@
+c:\users\simoo\documents\visual studio 2012\Projects\ExceptionHandling-Homework\SquareRootExpression\bin\Debug\SquareRootExpression.exe.config
+c:\users\simoo\documents\visual studio 2012\Projects\ExceptionHandling-Homework\SquareRootExpression\bin\Debug\SquareRootExpression.exe
+c:\users\simoo\documents\visual studio 2012\Projects\ExceptionHandling-Homework\SquareRootExpression\bin\Debug\SquareRootExpression.pdb
+c:\users\simoo\documents\visual studio 2012\Projects\ExceptionHandling-Homework\SquareRootExpression\obj\Debug\SquareRootExpression.csprojResolveAssemblyReference.cache
+c:\users\simoo\documents\visual studio 2012\Projects\ExceptionHandling-Homework\SquareRootExpression\obj\Debug\SquareRootExpression.exe
+c:\users\simoo\documents\visual studio 2012\Projects\ExceptionHandling-Homework\SquareRootExpression\obj\Debug\SquareRootExpression.pdb

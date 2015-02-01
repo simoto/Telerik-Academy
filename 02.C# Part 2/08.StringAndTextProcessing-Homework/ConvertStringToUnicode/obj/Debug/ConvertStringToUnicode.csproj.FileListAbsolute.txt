@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ConvertStringToUnicode\bin\Debug\ConvertStringToUnicode.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ConvertStringToUnicode\bin\Debug\ConvertStringToUnicode.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ConvertStringToUnicode\bin\Debug\ConvertStringToUnicode.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ConvertStringToUnicode\obj\Debug\ConvertStringToUnicode.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ConvertStringToUnicode\obj\Debug\ConvertStringToUnicode.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ConvertStringToUnicode\obj\Debug\ConvertStringToUnicode.csprojResolveAssemblyReference.cache

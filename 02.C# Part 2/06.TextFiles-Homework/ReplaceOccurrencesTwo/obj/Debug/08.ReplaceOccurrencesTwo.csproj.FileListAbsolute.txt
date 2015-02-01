@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReplaceOccurrencesTwo\bin\Debug\ReplaceOccurrencesTwo.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReplaceOccurrencesTwo\obj\Debug\ReplaceOccurrencesTwo.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReplaceOccurrencesTwo\obj\Debug\ReplaceOccurrencesTwo.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\ReplaceOccurrencesTwo\bin\Debug\ReplaceOccurrencesTwo.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\ReplaceOccurrencesTwo\obj\Debug\ReplaceOccurrencesTwo.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\ReplaceOccurrencesTwo\obj\Debug\ReplaceOccurrencesTwo.pdb

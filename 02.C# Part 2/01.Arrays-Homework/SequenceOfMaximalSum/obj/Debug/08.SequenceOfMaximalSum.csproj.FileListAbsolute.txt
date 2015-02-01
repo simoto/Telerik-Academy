@@ -1,0 +1,12 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\SequenceOfMaximalSum\bin\Debug\SequenceOfMaximalSum.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\SequenceOfMaximalSum\bin\Debug\SequenceOfMaximalSum.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\SequenceOfMaximalSum\bin\Debug\SequenceOfMaximalSum.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\SequenceOfMaximalSum\obj\Debug\08.SequenceOfMaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\SequenceOfMaximalSum\obj\Debug\SequenceOfMaximalSum.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\SequenceOfMaximalSum\obj\Debug\SequenceOfMaximalSum.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\SequenceOfMaximalSum\bin\Debug\SequenceOfMaximalSum.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\SequenceOfMaximalSum\obj\Debug\SequenceOfMaximalSum.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\SequenceOfMaximalSum\obj\Debug\SequenceOfMaximalSum.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\SequenceOfMaximalSum\bin\Debug\SequenceOfMaximalSum.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\SequenceOfMaximalSum\bin\Debug\SequenceOfMaximalSum.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\SequenceOfMaximalSum\obj\Debug\08.SequenceOfMaximalSum.csprojResolveAssemblyReference.cache

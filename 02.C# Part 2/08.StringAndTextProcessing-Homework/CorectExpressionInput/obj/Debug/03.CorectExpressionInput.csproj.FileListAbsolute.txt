@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\CorectExpressionInput\bin\Debug\CorectExpressionInput.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\CorectExpressionInput\obj\Debug\CorectExpressionInput.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\CorectExpressionInput\obj\Debug\CorectExpressionInput.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\CorectExpressionInput\bin\Debug\CorectExpressionInput.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\CorectExpressionInput\obj\Debug\CorectExpressionInput.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\CorectExpressionInput\obj\Debug\CorectExpressionInput.pdb

@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\DeleteSomeWords\bin\Debug\DeleteSomeWords.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\DeleteSomeWords\obj\Debug\DeleteSomeWords.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\DeleteSomeWords\obj\Debug\DeleteSomeWords.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\DeleteSomeWords\bin\Debug\DeleteSomeWords.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\DeleteSomeWords\obj\Debug\DeleteSomeWords.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\DeleteSomeWords\obj\Debug\DeleteSomeWords.pdb

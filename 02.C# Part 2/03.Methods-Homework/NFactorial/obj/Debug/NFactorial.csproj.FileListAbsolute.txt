@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\NFactorial\bin\Debug\NFactorial.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\NFactorial\bin\Debug\NFactorial.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\NFactorial\bin\Debug\NFactorial.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\NFactorial\obj\Debug\NFactorial.csprojResolveAssemblyReference.cache
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\NFactorial\obj\Debug\NFactorial.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\NFactorial\obj\Debug\NFactorial.pdb

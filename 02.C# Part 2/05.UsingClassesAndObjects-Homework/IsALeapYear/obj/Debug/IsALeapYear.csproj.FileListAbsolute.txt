@@ -1,0 +1,6 @@
+c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\IsALeapYear\bin\Debug\IsALeapYear.exe.config
+c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\IsALeapYear\bin\Debug\IsALeapYear.exe
+c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\IsALeapYear\bin\Debug\IsALeapYear.pdb
+c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\IsALeapYear\obj\Debug\IsALeapYear.csprojResolveAssemblyReference.cache
+c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\IsALeapYear\obj\Debug\IsALeapYear.exe
+c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\IsALeapYear\obj\Debug\IsALeapYear.pdb

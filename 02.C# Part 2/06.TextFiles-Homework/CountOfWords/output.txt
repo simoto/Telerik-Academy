@@ -1,0 +1,4 @@
+dreams: 3
+light: 3
+cloths: 3
+poor: 1

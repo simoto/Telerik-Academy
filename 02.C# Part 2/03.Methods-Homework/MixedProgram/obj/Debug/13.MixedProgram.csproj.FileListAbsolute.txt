@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\MixedProgram\bin\Debug\MixedProgram.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\MixedProgram\obj\Debug\MixedProgram.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\MixedProgram\obj\Debug\MixedProgram.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\MixedProgram\bin\Debug\MixedProgram.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\MixedProgram\obj\Debug\MixedProgram.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\MixedProgram\obj\Debug\MixedProgram.pdb

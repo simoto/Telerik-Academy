@@ -1,0 +1,5 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ParseURLAddress\bin\Debug\ParseURLAddress.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ParseURLAddress\bin\Debug\ParseURLAddress.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ParseURLAddress\bin\Debug\ParseURLAddress.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ParseURLAddress\obj\Debug\ParseURLAddress.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ParseURLAddress\obj\Debug\ParseURLAddress.pdb

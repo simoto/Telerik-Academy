@@ -1,0 +1,3 @@
+bin
+bam
+bum

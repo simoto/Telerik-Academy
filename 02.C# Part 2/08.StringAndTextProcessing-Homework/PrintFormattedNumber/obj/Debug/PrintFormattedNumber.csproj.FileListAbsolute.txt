@@ -1,0 +1,5 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\PrintFormattedNumber\bin\Debug\PrintFormattedNumber.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\PrintFormattedNumber\bin\Debug\PrintFormattedNumber.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\PrintFormattedNumber\bin\Debug\PrintFormattedNumber.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\PrintFormattedNumber\obj\Debug\PrintFormattedNumber.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\PrintFormattedNumber\obj\Debug\PrintFormattedNumber.pdb

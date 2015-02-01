@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ConvertDecimalToHex\bin\Debug\ConvertDecimalToHex.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ConvertDecimalToHex\bin\Debug\ConvertDecimalToHex.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ConvertDecimalToHex\bin\Debug\ConvertDecimalToHex.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ConvertDecimalToHex\obj\Debug\ConvertDecimalToHex.csprojResolveAssemblyReference.cache
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ConvertDecimalToHex\obj\Debug\ConvertDecimalToHex.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ConvertDecimalToHex\obj\Debug\ConvertDecimalToHex.pdb

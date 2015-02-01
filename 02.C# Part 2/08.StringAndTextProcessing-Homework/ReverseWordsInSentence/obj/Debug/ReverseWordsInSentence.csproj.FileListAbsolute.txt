@@ -1,0 +1,1 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ReverseWordsInSentence\bin\Debug\ReverseWordsInSentence.exe.config

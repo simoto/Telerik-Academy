@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ConvertHexToDecimal\bin\Debug\ConvertHexToDecimal.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ConvertHexToDecimal\obj\Debug\ConvertHexToDecimal.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ConvertHexToDecimal\obj\Debug\ConvertHexToDecimal.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\04.NumeralSystems-Homework\ConvertHexToDecimal\bin\Debug\ConvertHexToDecimal.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\04.NumeralSystems-Homework\ConvertHexToDecimal\obj\Debug\ConvertHexToDecimal.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\04.NumeralSystems-Homework\ConvertHexToDecimal\obj\Debug\ConvertHexToDecimal.pdb

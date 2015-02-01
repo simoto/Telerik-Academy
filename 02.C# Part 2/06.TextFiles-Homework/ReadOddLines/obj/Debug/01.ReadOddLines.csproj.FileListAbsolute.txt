@@ -1,0 +1,9 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReadOddLines\bin\Debug\ReadOddLines.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReadOddLines\obj\Debug\ReadOddLines.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReadOddLines\obj\Debug\ReadOddLines.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReadOddLines\bin\Debug\ReadOddLines.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReadOddLines\bin\Debug\ReadOddLines.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReadOddLines\obj\Debug\01.ReadOddLines.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\ReadOddLines\bin\Debug\ReadOddLines.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\ReadOddLines\obj\Debug\ReadOddLines.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\ReadOddLines\obj\Debug\ReadOddLines.pdb

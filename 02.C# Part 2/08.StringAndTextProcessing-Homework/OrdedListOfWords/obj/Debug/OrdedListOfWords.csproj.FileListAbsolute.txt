@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\OrdedListOfWords\bin\Debug\OrdedListOfWords.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\OrdedListOfWords\bin\Debug\OrdedListOfWords.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\OrdedListOfWords\bin\Debug\OrdedListOfWords.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\OrdedListOfWords\obj\Debug\OrdedListOfWords.csprojResolveAssemblyReference.cache
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\OrdedListOfWords\obj\Debug\OrdedListOfWords.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\OrdedListOfWords\obj\Debug\OrdedListOfWords.pdb

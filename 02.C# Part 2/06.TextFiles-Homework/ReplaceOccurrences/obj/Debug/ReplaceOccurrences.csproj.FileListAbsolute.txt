@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReplaceOccurrences\bin\Debug\ReplaceOccurrences.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReplaceOccurrences\bin\Debug\ReplaceOccurrences.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReplaceOccurrences\bin\Debug\ReplaceOccurrences.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReplaceOccurrences\obj\Debug\ReplaceOccurrences.csprojResolveAssemblyReference.cache
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReplaceOccurrences\obj\Debug\ReplaceOccurrences.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReplaceOccurrences\obj\Debug\ReplaceOccurrences.pdb

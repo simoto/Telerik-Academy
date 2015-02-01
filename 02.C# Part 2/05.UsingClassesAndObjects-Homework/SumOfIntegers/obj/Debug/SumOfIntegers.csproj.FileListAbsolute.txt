@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects-Homework\SumOfIntegers\bin\Debug\SumOfIntegers.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects-Homework\SumOfIntegers\bin\Debug\SumOfIntegers.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects-Homework\SumOfIntegers\bin\Debug\SumOfIntegers.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects-Homework\SumOfIntegers\obj\Debug\SumOfIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects-Homework\SumOfIntegers\obj\Debug\SumOfIntegers.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects-Homework\SumOfIntegers\obj\Debug\SumOfIntegers.pdb

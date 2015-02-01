@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\Polynomial\bin\Debug\Polynomial.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\Polynomial\obj\Debug\Polynomial.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\Polynomial\obj\Debug\Polynomial.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\Polynomial\bin\Debug\Polynomial.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\Polynomial\obj\Debug\Polynomial.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\Polynomial\obj\Debug\Polynomial.pdb

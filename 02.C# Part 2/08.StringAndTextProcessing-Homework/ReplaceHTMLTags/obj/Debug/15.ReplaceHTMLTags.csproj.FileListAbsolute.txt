@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ReplaceHTMLTags\bin\Debug\ReplaceHTMLTags.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ReplaceHTMLTags\obj\Debug\ReplaceHTMLTags.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ReplaceHTMLTags\obj\Debug\ReplaceHTMLTags.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ReplaceHTMLTags\bin\Debug\ReplaceHTMLTags.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ReplaceHTMLTags\obj\Debug\ReplaceHTMLTags.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ReplaceHTMLTags\obj\Debug\ReplaceHTMLTags.pdb

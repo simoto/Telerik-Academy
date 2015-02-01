@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\DeleteOddLines\bin\Debug\DeleteOddLines.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\DeleteOddLines\obj\Debug\DeleteOddLines.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\DeleteOddLines\obj\Debug\DeleteOddLines.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\DeleteOddLines\bin\Debug\DeleteOddLines.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\DeleteOddLines\obj\Debug\DeleteOddLines.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\DeleteOddLines\obj\Debug\DeleteOddLines.pdb

@@ -1,0 +1,9 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\CountOfWords\bin\Debug\CountOfWords.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\CountOfWords\bin\Debug\CountOfWords.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\CountOfWords\bin\Debug\CountOfWords.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\CountOfWords\obj\Debug\13.CountOfWords.csprojResolveAssemblyReference.cache
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\CountOfWords\obj\Debug\CountOfWords.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\CountOfWords\obj\Debug\CountOfWords.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\CountOfWords\bin\Debug\CountOfWords.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\CountOfWords\obj\Debug\CountOfWords.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\CountOfWords\obj\Debug\CountOfWords.pdb

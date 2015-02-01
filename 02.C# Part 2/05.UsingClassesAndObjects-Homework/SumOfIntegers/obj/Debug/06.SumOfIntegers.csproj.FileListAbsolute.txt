@@ -1,0 +1,6 @@
+C:\Users\Simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\SumOfIntegers\bin\Debug\SumOfIntegers.exe.config
+C:\Users\Simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\SumOfIntegers\obj\Debug\SumOfIntegers.exe
+C:\Users\Simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\SumOfIntegers\obj\Debug\SumOfIntegers.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\05.UsingClassesAndObjects-Homework\SumOfIntegers\bin\Debug\SumOfIntegers.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\05.UsingClassesAndObjects-Homework\SumOfIntegers\obj\Debug\SumOfIntegers.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\05.UsingClassesAndObjects-Homework\SumOfIntegers\obj\Debug\SumOfIntegers.pdb

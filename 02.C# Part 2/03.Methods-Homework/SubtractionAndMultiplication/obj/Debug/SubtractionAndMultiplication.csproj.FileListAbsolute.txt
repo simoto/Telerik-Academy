@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\SubtractionAndMultiplication\bin\Debug\SubtractionAndMultiplication.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\SubtractionAndMultiplication\bin\Debug\SubtractionAndMultiplication.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\SubtractionAndMultiplication\bin\Debug\SubtractionAndMultiplication.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\SubtractionAndMultiplication\obj\Debug\SubtractionAndMultiplication.csprojResolveAssemblyReference.cache
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\SubtractionAndMultiplication\obj\Debug\SubtractionAndMultiplication.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\SubtractionAndMultiplication\obj\Debug\SubtractionAndMultiplication.pdb

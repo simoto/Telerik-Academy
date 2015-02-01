@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\ExceptionHandling-Homework\DownloadFile\bin\Debug\DownloadFile.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\ExceptionHandling-Homework\DownloadFile\obj\Debug\DownloadFile.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\ExceptionHandling-Homework\DownloadFile\obj\Debug\DownloadFile.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\07.ExceptionHandling-Homework\DownloadFile\bin\Debug\DownloadFile.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\07.ExceptionHandling-Homework\DownloadFile\obj\Debug\DownloadFile.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\07.ExceptionHandling-Homework\DownloadFile\obj\Debug\DownloadFile.pdb

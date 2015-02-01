@@ -1,0 +1,3 @@
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\SubstringCounting\bin\Debug\SubstringCounting.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\SubstringCounting\obj\Debug\SubstringCounting.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\SubstringCounting\obj\Debug\SubstringCounting.pdb

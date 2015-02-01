@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\DaysBetweenDates\bin\Debug\DaysBetweenDates.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\DaysBetweenDates\bin\Debug\DaysBetweenDates.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\DaysBetweenDates\bin\Debug\DaysBetweenDates.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\DaysBetweenDates\obj\Debug\DaysBetweenDates.csprojResolveAssemblyReference.cache
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\DaysBetweenDates\obj\Debug\DaysBetweenDates.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\DaysBetweenDates\obj\Debug\DaysBetweenDates.pdb

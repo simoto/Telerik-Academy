@@ -1,0 +1,3 @@
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ExtractGivenSentence\bin\Debug\ExtractGivenSentence.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ExtractGivenSentence\obj\Debug\ExtractGivenSentence.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ExtractGivenSentence\obj\Debug\ExtractGivenSentence.pdb

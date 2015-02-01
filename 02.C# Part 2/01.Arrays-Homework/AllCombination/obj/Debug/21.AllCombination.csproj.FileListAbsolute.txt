@@ -1,0 +1,8 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\AllCombination\bin\Debug\AllCombination.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\AllCombination\bin\Debug\AllCombination.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\AllCombination\bin\Debug\AllCombination.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\AllCombination\obj\Debug\AllCombination.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\AllCombination\obj\Debug\AllCombination.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\AllCombination\bin\Debug\AllCombination.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\AllCombination\obj\Debug\AllCombination.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\AllCombination\obj\Debug\AllCombination.pdb

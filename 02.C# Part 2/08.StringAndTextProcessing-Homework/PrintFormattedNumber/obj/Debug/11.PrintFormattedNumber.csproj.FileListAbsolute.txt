@@ -1,0 +1,3 @@
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\PrintFormattedNumber\bin\Debug\PrintFormattedNumber.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\PrintFormattedNumber\obj\Debug\PrintFormattedNumber.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\PrintFormattedNumber\obj\Debug\PrintFormattedNumber.pdb

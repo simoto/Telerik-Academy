@@ -1,0 +1,8 @@
+c:\users\simoo\documents\visual studio 2012\Projects\NumeralSystems-Homework\ConvertDecimalToBinary\bin\Debug\ConvertDecimalToBinary.exe.config
+c:\users\simoo\documents\visual studio 2012\Projects\NumeralSystems-Homework\ConvertDecimalToBinary\bin\Debug\ConvertDecimalToBinary.exe
+c:\users\simoo\documents\visual studio 2012\Projects\NumeralSystems-Homework\ConvertDecimalToBinary\bin\Debug\ConvertDecimalToBinary.pdb
+c:\users\simoo\documents\visual studio 2012\Projects\NumeralSystems-Homework\ConvertDecimalToBinary\obj\Debug\ConvertDecimalToBinary.exe
+c:\users\simoo\documents\visual studio 2012\Projects\NumeralSystems-Homework\ConvertDecimalToBinary\obj\Debug\ConvertDecimalToBinary.pdb
+C:\Users\Simeon\Desktop\02.C# Part 2\04.NumeralSystems-Homework\ConvertDecimalToBinary\bin\Debug\ConvertDecimalToBinary.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\04.NumeralSystems-Homework\ConvertDecimalToBinary\obj\Debug\ConvertDecimalToBinary.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\04.NumeralSystems-Homework\ConvertDecimalToBinary\obj\Debug\ConvertDecimalToBinary.pdb

@@ -1,0 +1,6 @@
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\IsBiggerThanNeighbor\bin\Debug\IsBiggerThanNeighbor.exe.config
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\IsBiggerThanNeighbor\bin\Debug\IsBiggerThanNeighbor.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\IsBiggerThanNeighbor\bin\Debug\IsBiggerThanNeighbor.pdb
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\IsBiggerThanNeighbor\obj\Debug\IsBiggerThanNeighbor.csprojResolveAssemblyReference.cache
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\IsBiggerThanNeighbor\obj\Debug\IsBiggerThanNeighbor.exe
+C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\IsBiggerThanNeighbor\obj\Debug\IsBiggerThanNeighbor.pdb

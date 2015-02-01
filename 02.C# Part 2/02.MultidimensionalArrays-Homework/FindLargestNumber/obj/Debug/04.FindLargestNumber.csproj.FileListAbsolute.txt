@@ -1,0 +1,3 @@
+C:\Users\Simeon\Desktop\02.C# Part 2\02.MultidimensionalArrays-Homework\FindLargestNumber\bin\Debug\FindLargestNumber.exe.config
+C:\Users\Simeon\Desktop\02.C# Part 2\02.MultidimensionalArrays-Homework\FindLargestNumber\obj\Debug\FindLargestNumber.exe
+C:\Users\Simeon\Desktop\02.C# Part 2\02.MultidimensionalArrays-Homework\FindLargestNumber\obj\Debug\FindLargestNumber.pdb
