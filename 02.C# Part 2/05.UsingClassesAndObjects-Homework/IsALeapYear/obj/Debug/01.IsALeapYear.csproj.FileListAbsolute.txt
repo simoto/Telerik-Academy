@@ -1,8 +1,0 @@
-c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\IsALeapYear\bin\Debug\IsALeapYear.exe.config
-c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\IsALeapYear\bin\Debug\IsALeapYear.exe
-c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\IsALeapYear\bin\Debug\IsALeapYear.pdb
-c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\IsALeapYear\obj\Debug\IsALeapYear.exe
-c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\IsALeapYear\obj\Debug\IsALeapYear.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\05.UsingClassesAndObjects-Homework\IsALeapYear\bin\Debug\IsALeapYear.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\05.UsingClassesAndObjects-Homework\IsALeapYear\obj\Debug\IsALeapYear.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\05.UsingClassesAndObjects-Homework\IsALeapYear\obj\Debug\IsALeapYear.pdb

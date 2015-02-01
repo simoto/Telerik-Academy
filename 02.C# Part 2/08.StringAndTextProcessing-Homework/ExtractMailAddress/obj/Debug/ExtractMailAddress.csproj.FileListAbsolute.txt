@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractMailAddress\bin\Debug\ExtractMailAddress.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractMailAddress\bin\Debug\ExtractMailAddress.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractMailAddress\bin\Debug\ExtractMailAddress.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractMailAddress\obj\Debug\ExtractMailAddress.csprojResolveAssemblyReference.cache
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractMailAddress\obj\Debug\ExtractMailAddress.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractMailAddress\obj\Debug\ExtractMailAddress.pdb

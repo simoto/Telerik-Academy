@@ -1,8 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\MaximalInreasingSequence\bin\Debug\MaximalInreasingSequence.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\MaximalInreasingSequence\bin\Debug\MaximalInreasingSequence.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\MaximalInreasingSequence\bin\Debug\MaximalInreasingSequence.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\MaximalInreasingSequence\obj\Debug\MaximalInreasingSequence.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\MaximalInreasingSequence\obj\Debug\MaximalInreasingSequence.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\MaximalInreasingSequence\bin\Debug\MaximalInreasingSequence.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\MaximalInreasingSequence\obj\Debug\MaximalInreasingSequence.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\MaximalInreasingSequence\obj\Debug\MaximalInreasingSequence.pdb

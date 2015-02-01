@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\SortingListOfString\bin\Debug\SortingListOfString.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\SortingListOfString\bin\Debug\SortingListOfString.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\SortingListOfString\bin\Debug\SortingListOfString.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\SortingListOfString\obj\Debug\SortingListOfString.csprojResolveAssemblyReference.cache
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\SortingListOfString\obj\Debug\SortingListOfString.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\SortingListOfString\obj\Debug\SortingListOfString.pdb

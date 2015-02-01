@@ -1,5 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ShortToBinary\bin\Debug\ShortToBinary.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ShortToBinary\bin\Debug\ShortToBinary.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ShortToBinary\bin\Debug\ShortToBinary.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ShortToBinary\obj\Debug\ShortToBinary.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\NumeralSystems-Homework\ShortToBinary\obj\Debug\ShortToBinary.pdb

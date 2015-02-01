@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\ExceptionHandling-Homework\FullPathOfFile\bin\Debug\FullPathOfFile.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\ExceptionHandling-Homework\FullPathOfFile\obj\Debug\FullPathOfFile.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\ExceptionHandling-Homework\FullPathOfFile\obj\Debug\FullPathOfFile.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\07.ExceptionHandling-Homework\FullPathOfFile\bin\Debug\FullPathOfFile.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\07.ExceptionHandling-Homework\FullPathOfFile\obj\Debug\FullPathOfFile.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\07.ExceptionHandling-Homework\FullPathOfFile\obj\Debug\FullPathOfFile.pdb

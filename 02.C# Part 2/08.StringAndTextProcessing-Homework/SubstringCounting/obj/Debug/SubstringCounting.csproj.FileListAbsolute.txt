@@ -1,6 +1,0 @@
-c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\SubstringCounting\bin\Debug\SubstringCounting.exe.config
-c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\SubstringCounting\bin\Debug\SubstringCounting.exe
-c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\SubstringCounting\bin\Debug\SubstringCounting.pdb
-c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\SubstringCounting\obj\Debug\SubstringCounting.csprojResolveAssemblyReference.cache
-c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\SubstringCounting\obj\Debug\SubstringCounting.exe
-c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\SubstringCounting\obj\Debug\SubstringCounting.pdb

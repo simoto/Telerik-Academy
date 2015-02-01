@@ -1,8 +1,0 @@
-c:\users\simoo\documents\visual studio 2012\Projects\CShapPartTwoExamPreparation-Homework\MagicWords\bin\Debug\MagicWords.exe.config
-c:\users\simoo\documents\visual studio 2012\Projects\CShapPartTwoExamPreparation-Homework\MagicWords\bin\Debug\MagicWords.exe
-c:\users\simoo\documents\visual studio 2012\Projects\CShapPartTwoExamPreparation-Homework\MagicWords\bin\Debug\MagicWords.pdb
-c:\users\simoo\documents\visual studio 2012\Projects\CShapPartTwoExamPreparation-Homework\MagicWords\obj\Debug\MagicWords.exe
-c:\users\simoo\documents\visual studio 2012\Projects\CShapPartTwoExamPreparation-Homework\MagicWords\obj\Debug\MagicWords.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\09.CShapPartTwoExamPreparation-Homework\MagicWords\bin\Debug\MagicWords.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\09.CShapPartTwoExamPreparation-Homework\MagicWords\obj\Debug\MagicWords.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\09.CShapPartTwoExamPreparation-Homework\MagicWords\obj\Debug\MagicWords.pdb

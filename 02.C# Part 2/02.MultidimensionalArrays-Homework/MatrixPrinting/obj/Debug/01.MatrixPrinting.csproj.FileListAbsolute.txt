@@ -1,9 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\MultidimensionalArrays-Homework\MatrixPrinting\bin\Debug\MatrixPrinting.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\MultidimensionalArrays-Homework\MatrixPrinting\obj\Debug\MatrixPrinting.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\MultidimensionalArrays-Homework\MatrixPrinting\obj\Debug\MatrixPrinting.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\02.MultidimensionalArrays-Homework\MatrixPrinting\bin\Debug\MatrixPrinting.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\02.MultidimensionalArrays-Homework\MatrixPrinting\obj\Debug\MatrixPrinting.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\02.MultidimensionalArrays-Homework\MatrixPrinting\obj\Debug\MatrixPrinting.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\02.MultidimensionalArrays-Homework\MatrixPrinting\bin\Debug\MatrixPrinting.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\02.MultidimensionalArrays-Homework\MatrixPrinting\bin\Debug\MatrixPrinting.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\02.MultidimensionalArrays-Homework\MatrixPrinting\obj\Debug\01.MatrixPrinting.csprojResolveAssemblyReference.cache

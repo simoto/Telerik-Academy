@@ -1,8 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\MostFrequentNumber\bin\Debug\MostFrequentNumber.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\MostFrequentNumber\obj\Debug\MostFrequentNumber.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\MostFrequentNumber\obj\Debug\MostFrequentNumber.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\MostFrequentNumber\obj\Debug\MostFrequentNumber.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\MostFrequentNumber\obj\Debug\MostFrequentNumber.pdb

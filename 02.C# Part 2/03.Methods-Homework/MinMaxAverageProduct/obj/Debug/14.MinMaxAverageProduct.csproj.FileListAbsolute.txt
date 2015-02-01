@@ -1,8 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\MinMaxAverageProduct\bin\Debug\MinMaxAverageProduct.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\MinMaxAverageProduct\bin\Debug\MinMaxAverageProduct.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\MinMaxAverageProduct\bin\Debug\MinMaxAverageProduct.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\MinMaxAverageProduct\obj\Debug\MinMaxAverageProduct.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\MinMaxAverageProduct\obj\Debug\MinMaxAverageProduct.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\MinMaxAverageProduct\bin\Debug\MinMaxAverageProduct.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\MinMaxAverageProduct\obj\Debug\MinMaxAverageProduct.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\MinMaxAverageProduct\obj\Debug\MinMaxAverageProduct.pdb

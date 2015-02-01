@@ -1,9 +1,0 @@
-c:\users\simoo\documents\visual studio 2012\Projects\Arrays-Homework\MultipliedArray\bin\Debug\MultipliedArray.exe.config
-c:\users\simoo\documents\visual studio 2012\Projects\Arrays-Homework\MultipliedArray\bin\Debug\MultipliedArray.exe
-c:\users\simoo\documents\visual studio 2012\Projects\Arrays-Homework\MultipliedArray\bin\Debug\MultipliedArray.pdb
-c:\users\simoo\documents\visual studio 2012\Projects\Arrays-Homework\MultipliedArray\obj\Debug\01.MultipliedArray.csprojResolveAssemblyReference.cache
-c:\users\simoo\documents\visual studio 2012\Projects\Arrays-Homework\MultipliedArray\obj\Debug\MultipliedArray.exe
-c:\users\simoo\documents\visual studio 2012\Projects\Arrays-Homework\MultipliedArray\obj\Debug\MultipliedArray.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\MultipliedArray\bin\Debug\MultipliedArray.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\MultipliedArray\obj\Debug\MultipliedArray.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\MultipliedArray\obj\Debug\MultipliedArray.pdb

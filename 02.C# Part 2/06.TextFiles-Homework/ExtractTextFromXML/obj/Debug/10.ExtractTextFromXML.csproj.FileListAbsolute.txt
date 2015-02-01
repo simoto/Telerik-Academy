@@ -1,3 +1,0 @@
-C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\ExtractTextFromXML\bin\Debug\ExtractTextFromXML.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\ExtractTextFromXML\obj\Debug\ExtractTextFromXML.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\ExtractTextFromXML\obj\Debug\ExtractTextFromXML.pdb

@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReplaceOccurrencesTwo\bin\Debug\ReplaceOccurrencesTwo.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReplaceOccurrencesTwo\bin\Debug\ReplaceOccurrencesTwo.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReplaceOccurrencesTwo\bin\Debug\ReplaceOccurrencesTwo.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReplaceOccurrencesTwo\obj\Debug\ReplaceOccurrencesTwo.csprojResolveAssemblyReference.cache
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReplaceOccurrencesTwo\obj\Debug\ReplaceOccurrencesTwo.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReplaceOccurrencesTwo\obj\Debug\ReplaceOccurrencesTwo.pdb

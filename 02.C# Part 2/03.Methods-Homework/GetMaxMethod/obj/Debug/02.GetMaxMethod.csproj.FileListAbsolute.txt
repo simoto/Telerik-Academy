@@ -1,6 +1,0 @@
-c:\users\simoo\documents\visual studio 2012\Projects\Methods-Homework\GetMaxMethod\bin\Debug\GetMaxMethod.exe.config
-c:\users\simoo\documents\visual studio 2012\Projects\Methods-Homework\GetMaxMethod\obj\Debug\GetMaxMethod.exe
-c:\users\simoo\documents\visual studio 2012\Projects\Methods-Homework\GetMaxMethod\obj\Debug\GetMaxMethod.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\GetMaxMethod\bin\Debug\GetMaxMethod.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\GetMaxMethod\obj\Debug\GetMaxMethod.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\GetMaxMethod\obj\Debug\GetMaxMethod.pdb

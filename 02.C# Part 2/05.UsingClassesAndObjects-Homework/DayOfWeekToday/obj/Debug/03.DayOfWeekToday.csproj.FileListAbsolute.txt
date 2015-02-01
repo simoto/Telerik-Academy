@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects-Homework\DayOfWeekToday\bin\Debug\DayOfWeekToday.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects-Homework\DayOfWeekToday\obj\Debug\DayOfWeekToday.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects-Homework\DayOfWeekToday\obj\Debug\DayOfWeekToday.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\05.UsingClassesAndObjects-Homework\DayOfWeekToday\bin\Debug\DayOfWeekToday.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\05.UsingClassesAndObjects-Homework\DayOfWeekToday\obj\Debug\DayOfWeekToday.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\05.UsingClassesAndObjects-Homework\DayOfWeekToday\obj\Debug\DayOfWeekToday.pdb

@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\NumberInArray\bin\Debug\NumberInArray.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\NumberInArray\obj\Debug\NumberInArray.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\NumberInArray\obj\Debug\NumberInArray.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\NumberInArray\bin\Debug\NumberInArray.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\NumberInArray\obj\Debug\NumberInArray.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\NumberInArray\obj\Debug\NumberInArray.pdb

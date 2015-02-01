@@ -1,8 +1,0 @@
-c:\users\simoo\documents\visual studio 2012\Projects\CShapPartTwoExamPreparation-Homework\MovingLetters\bin\Debug\MovingLetters.exe.config
-c:\users\simoo\documents\visual studio 2012\Projects\CShapPartTwoExamPreparation-Homework\MovingLetters\bin\Debug\MovingLetters.exe
-c:\users\simoo\documents\visual studio 2012\Projects\CShapPartTwoExamPreparation-Homework\MovingLetters\bin\Debug\MovingLetters.pdb
-c:\users\simoo\documents\visual studio 2012\Projects\CShapPartTwoExamPreparation-Homework\MovingLetters\obj\Debug\MovingLetters.exe
-c:\users\simoo\documents\visual studio 2012\Projects\CShapPartTwoExamPreparation-Homework\MovingLetters\obj\Debug\MovingLetters.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\09.CShapPartTwoExamPreparation-Homework\MovingLetters\bin\Debug\MovingLetters.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\09.CShapPartTwoExamPreparation-Homework\MovingLetters\obj\Debug\MovingLetters.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\09.CShapPartTwoExamPreparation-Homework\MovingLetters\obj\Debug\MovingLetters.pdb

@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\LastDigitEnglishWord\bin\Debug\LastDigitEnglishWord.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\LastDigitEnglishWord\obj\Debug\LastDigitEnglishWord.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\LastDigitEnglishWord\obj\Debug\LastDigitEnglishWord.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\LastDigitEnglishWord\bin\Debug\LastDigitEnglishWord.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\LastDigitEnglishWord\obj\Debug\LastDigitEnglishWord.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\LastDigitEnglishWord\obj\Debug\LastDigitEnglishWord.pdb

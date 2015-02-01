@@ -1,5 +1,0 @@
-c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\TenRandomValues\bin\Debug\TenRandomValues.exe.config
-c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\TenRandomValues\bin\Debug\TenRandomValues.exe
-c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\TenRandomValues\bin\Debug\TenRandomValues.pdb
-c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\TenRandomValues\obj\Debug\TenRandomValues.exe
-c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\TenRandomValues\obj\Debug\TenRandomValues.pdb

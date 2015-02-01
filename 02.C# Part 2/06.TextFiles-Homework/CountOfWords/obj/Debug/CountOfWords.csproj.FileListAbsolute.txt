@@ -1,1 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\CountOfWords\bin\Debug\CountOfWords.exe.config

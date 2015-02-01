@@ -1,2 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects-Homework\TriangleSurface\bin\Debug\TriangleSurface.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\05.UsingClassesAndObjects-Homework\TriangleSurface\bin\Debug\TriangleSurface.exe.config

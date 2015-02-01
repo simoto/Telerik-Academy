@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\CompareTextFiles\bin\Debug\CompareTextFiles.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\CompareTextFiles\bin\Debug\CompareTextFiles.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\CompareTextFiles\bin\Debug\CompareTextFiles.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\CompareTextFiles\obj\Debug\CompareTextFiles.csprojResolveAssemblyReference.cache
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\CompareTextFiles\obj\Debug\CompareTextFiles.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\CompareTextFiles\obj\Debug\CompareTextFiles.pdb

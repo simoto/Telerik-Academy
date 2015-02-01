@@ -1,5 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\LineNumbers\bin\Debug\LineNumbers.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\LineNumbers\bin\Debug\LineNumbers.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\LineNumbers\bin\Debug\LineNumbers.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\LineNumbers\obj\Debug\LineNumbers.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\LineNumbers\obj\Debug\LineNumbers.pdb

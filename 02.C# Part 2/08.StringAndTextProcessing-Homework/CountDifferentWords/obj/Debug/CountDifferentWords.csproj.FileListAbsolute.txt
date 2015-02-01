@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\CountDifferentWords\bin\Debug\CountDifferentWords.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\CountDifferentWords\bin\Debug\CountDifferentWords.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\CountDifferentWords\bin\Debug\CountDifferentWords.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\CountDifferentWords\obj\Debug\CountDifferentWords.csprojResolveAssemblyReference.cache
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\CountDifferentWords\obj\Debug\CountDifferentWords.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\CountDifferentWords\obj\Debug\CountDifferentWords.pdb

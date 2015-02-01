@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\ExceptionHandling-Homework\SquareRootExpression\bin\Debug\SquareRootExpression.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\ExceptionHandling-Homework\SquareRootExpression\obj\Debug\SquareRootExpression.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\ExceptionHandling-Homework\SquareRootExpression\obj\Debug\SquareRootExpression.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\07.ExceptionHandling-Homework\SquareRootExpression\bin\Debug\SquareRootExpression.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\07.ExceptionHandling-Homework\SquareRootExpression\obj\Debug\SquareRootExpression.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\07.ExceptionHandling-Homework\SquareRootExpression\obj\Debug\SquareRootExpression.pdb

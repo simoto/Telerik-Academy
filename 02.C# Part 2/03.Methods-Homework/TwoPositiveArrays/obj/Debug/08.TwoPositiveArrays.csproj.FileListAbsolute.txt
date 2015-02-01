@@ -1,9 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\TwoPositiveArrays\bin\Debug\TwoPositiveArrays.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\TwoPositiveArrays\obj\Debug\TwoPositiveArrays.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\TwoPositiveArrays\obj\Debug\TwoPositiveArrays.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\TwoPositiveArrays\bin\Debug\TwoPositiveArrays.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\TwoPositiveArrays\bin\Debug\TwoPositiveArrays.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\TwoPositiveArrays\obj\Debug\08.TwoPositiveArrays.csprojResolveAssemblyReference.cache
-C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\TwoPositiveArrays\bin\Debug\TwoPositiveArrays.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\TwoPositiveArrays\obj\Debug\TwoPositiveArrays.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\TwoPositiveArrays\obj\Debug\TwoPositiveArrays.pdb

@@ -1,5 +1,0 @@
-c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\DayOfWeekToday\bin\Debug\DayOfWeekToday.exe.config
-c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\DayOfWeekToday\bin\Debug\DayOfWeekToday.exe
-c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\DayOfWeekToday\bin\Debug\DayOfWeekToday.pdb
-c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\DayOfWeekToday\obj\Debug\DayOfWeekToday.exe
-c:\users\simoo\documents\visual studio 2012\Projects\UsingClassesAndObjects-Homework\DayOfWeekToday\obj\Debug\DayOfWeekToday.pdb

@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\AfterSixHourAndHalf\bin\Debug\AfterSixHourAndHalf.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\AfterSixHourAndHalf\bin\Debug\AfterSixHourAndHalf.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\AfterSixHourAndHalf\bin\Debug\AfterSixHourAndHalf.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\AfterSixHourAndHalf\obj\Debug\AfterSixHourAndHalf.csprojResolveAssemblyReference.cache
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\AfterSixHourAndHalf\obj\Debug\AfterSixHourAndHalf.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\AfterSixHourAndHalf\obj\Debug\AfterSixHourAndHalf.pdb

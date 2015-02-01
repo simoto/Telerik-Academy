@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\CompareTextFiles\bin\Debug\CompareTextFiles.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\CompareTextFiles\obj\Debug\CompareTextFiles.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\CompareTextFiles\obj\Debug\CompareTextFiles.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\CompareTextFiles\bin\Debug\CompareTextFiles.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\CompareTextFiles\obj\Debug\CompareTextFiles.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\CompareTextFiles\obj\Debug\CompareTextFiles.pdb

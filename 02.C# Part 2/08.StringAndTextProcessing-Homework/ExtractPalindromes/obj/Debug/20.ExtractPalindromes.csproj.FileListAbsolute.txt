@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractPalindromes\bin\Debug\ExtractPalindromes.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractPalindromes\obj\Debug\ExtractPalindromes.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractPalindromes\obj\Debug\ExtractPalindromes.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ExtractPalindromes\bin\Debug\ExtractPalindromes.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ExtractPalindromes\obj\Debug\ExtractPalindromes.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ExtractPalindromes\obj\Debug\ExtractPalindromes.pdb

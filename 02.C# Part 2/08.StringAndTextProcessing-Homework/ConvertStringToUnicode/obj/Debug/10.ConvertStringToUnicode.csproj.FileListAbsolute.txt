@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ConvertStringToUnicode\bin\Debug\ConvertStringToUnicode.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ConvertStringToUnicode\obj\Debug\ConvertStringToUnicode.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ConvertStringToUnicode\obj\Debug\ConvertStringToUnicode.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ConvertStringToUnicode\bin\Debug\ConvertStringToUnicode.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ConvertStringToUnicode\obj\Debug\ConvertStringToUnicode.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ConvertStringToUnicode\obj\Debug\ConvertStringToUnicode.pdb

@@ -1,3 +1,0 @@
-C:\Users\Simeon\Desktop\02.C# Part 2\02.MultidimensionalArrays-Homework\SortingByLength\bin\Debug\SortingByLength.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\02.MultidimensionalArrays-Homework\SortingByLength\obj\Debug\SortingByLength.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\02.MultidimensionalArrays-Homework\SortingByLength\obj\Debug\SortingByLength.pdb

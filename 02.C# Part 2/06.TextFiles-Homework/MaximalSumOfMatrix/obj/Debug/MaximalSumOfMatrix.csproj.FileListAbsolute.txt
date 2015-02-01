@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\MaximalSumOfMatrix\bin\Debug\MaximalSumOfMatrix.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\MaximalSumOfMatrix\obj\Debug\MaximalSumOfMatrix.csprojResolveAssemblyReference.cache
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\MaximalSumOfMatrix\bin\Debug\MaximalSumOfMatrix.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\MaximalSumOfMatrix\bin\Debug\MaximalSumOfMatrix.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\MaximalSumOfMatrix\obj\Debug\MaximalSumOfMatrix.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\MaximalSumOfMatrix\obj\Debug\MaximalSumOfMatrix.pdb

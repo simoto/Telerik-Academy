@@ -1,6 +1,0 @@
-c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\DescribeString\bin\Debug\DescribeString.exe.config
-c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\DescribeString\bin\Debug\DescribeString.exe
-c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\DescribeString\bin\Debug\DescribeString.pdb
-c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\DescribeString\obj\Debug\DescribeString.csprojResolveAssemblyReference.cache
-c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\DescribeString\obj\Debug\DescribeString.exe
-c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\DescribeString\obj\Debug\DescribeString.pdb

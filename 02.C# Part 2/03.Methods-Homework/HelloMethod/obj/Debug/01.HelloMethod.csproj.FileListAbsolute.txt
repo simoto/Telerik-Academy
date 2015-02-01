@@ -1,9 +1,0 @@
-c:\users\simoo\documents\visual studio 2012\Projects\Methods-Homework\HelloMethod\bin\Debug\HelloMethod.exe.config
-c:\users\simoo\documents\visual studio 2012\Projects\Methods-Homework\HelloMethod\bin\Debug\HelloMethod.exe
-c:\users\simoo\documents\visual studio 2012\Projects\Methods-Homework\HelloMethod\bin\Debug\HelloMethod.pdb
-c:\users\simoo\documents\visual studio 2012\Projects\Methods-Homework\HelloMethod\obj\Debug\01.HelloMethod.csprojResolveAssemblyReference.cache
-c:\users\simoo\documents\visual studio 2012\Projects\Methods-Homework\HelloMethod\obj\Debug\HelloMethod.exe
-c:\users\simoo\documents\visual studio 2012\Projects\Methods-Homework\HelloMethod\obj\Debug\HelloMethod.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\HelloMethod\bin\Debug\HelloMethod.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\HelloMethod\obj\Debug\HelloMethod.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\03.Methods-Homework\HelloMethod\obj\Debug\HelloMethod.pdb

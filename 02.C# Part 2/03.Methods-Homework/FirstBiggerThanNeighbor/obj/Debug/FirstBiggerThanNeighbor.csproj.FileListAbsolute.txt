@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\FirstBiggerThanNeighbor\bin\Debug\FirstBiggerThanNeighbor.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\FirstBiggerThanNeighbor\bin\Debug\FirstBiggerThanNeighbor.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\FirstBiggerThanNeighbor\bin\Debug\FirstBiggerThanNeighbor.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\FirstBiggerThanNeighbor\obj\Debug\FirstBiggerThanNeighbor.csprojResolveAssemblyReference.cache
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\FirstBiggerThanNeighbor\obj\Debug\FirstBiggerThanNeighbor.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\FirstBiggerThanNeighbor\obj\Debug\FirstBiggerThanNeighbor.pdb

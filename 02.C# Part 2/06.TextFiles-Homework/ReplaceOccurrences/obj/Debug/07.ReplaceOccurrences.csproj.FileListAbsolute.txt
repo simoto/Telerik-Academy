@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReplaceOccurrences\bin\Debug\ReplaceOccurrences.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReplaceOccurrences\obj\Debug\ReplaceOccurrences.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ReplaceOccurrences\obj\Debug\ReplaceOccurrences.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\ReplaceOccurrences\bin\Debug\ReplaceOccurrences.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\ReplaceOccurrences\obj\Debug\ReplaceOccurrences.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\06.TextFiles-Homework\ReplaceOccurrences\obj\Debug\ReplaceOccurrences.pdb

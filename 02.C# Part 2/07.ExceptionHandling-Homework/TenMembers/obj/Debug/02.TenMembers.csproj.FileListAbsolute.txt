@@ -1,2 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\ExceptionHandling-Homework\TenMembers\bin\Debug\TenMembers.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\07.ExceptionHandling-Homework\TenMembers\bin\Debug\TenMembers.exe.config

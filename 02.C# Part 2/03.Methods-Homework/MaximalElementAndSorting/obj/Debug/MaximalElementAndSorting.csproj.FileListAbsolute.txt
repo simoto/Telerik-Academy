@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\MaximalElementAndSorting\bin\Debug\MaximalElementAndSorting.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\MaximalElementAndSorting\bin\Debug\MaximalElementAndSorting.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\MaximalElementAndSorting\bin\Debug\MaximalElementAndSorting.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\MaximalElementAndSorting\obj\Debug\MaximalElementAndSorting.csprojResolveAssemblyReference.cache
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\MaximalElementAndSorting\obj\Debug\MaximalElementAndSorting.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Methods-Homework\MaximalElementAndSorting\obj\Debug\MaximalElementAndSorting.pdb

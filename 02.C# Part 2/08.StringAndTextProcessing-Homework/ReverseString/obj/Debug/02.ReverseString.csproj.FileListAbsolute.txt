@@ -1,3 +1,0 @@
-C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ReverseString\bin\Debug\ReverseString.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ReverseString\obj\Debug\ReverseString.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ReverseString\obj\Debug\ReverseString.pdb

@@ -1,5 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\MultidimensionalArrays-Homework\SameNeighbourElement\bin\Debug\SameNeighbourElement.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\MultidimensionalArrays-Homework\SameNeighbourElement\bin\Debug\SameNeighbourElement.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\MultidimensionalArrays-Homework\SameNeighbourElement\bin\Debug\SameNeighbourElement.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\MultidimensionalArrays-Homework\SameNeighbourElement\obj\Debug\SameNeighbourElement.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\MultidimensionalArrays-Homework\SameNeighbourElement\obj\Debug\SameNeighbourElement.pdb

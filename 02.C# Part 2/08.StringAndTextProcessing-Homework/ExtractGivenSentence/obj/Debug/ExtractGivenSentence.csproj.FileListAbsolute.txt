@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractGivenSentence\bin\Debug\ExtractGivenSentence.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractGivenSentence\bin\Debug\ExtractGivenSentence.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractGivenSentence\bin\Debug\ExtractGivenSentence.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractGivenSentence\obj\Debug\ExtractGivenSentence.csprojResolveAssemblyReference.cache
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractGivenSentence\obj\Debug\ExtractGivenSentence.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractGivenSentence\obj\Debug\ExtractGivenSentence.pdb

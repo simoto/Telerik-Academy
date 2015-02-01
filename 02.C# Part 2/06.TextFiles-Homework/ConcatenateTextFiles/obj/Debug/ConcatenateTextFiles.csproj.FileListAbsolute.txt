@@ -1,5 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ConcatenateTextFiles\bin\Debug\ConcatenateTextFiles.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ConcatenateTextFiles\bin\Debug\ConcatenateTextFiles.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ConcatenateTextFiles\bin\Debug\ConcatenateTextFiles.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ConcatenateTextFiles\obj\Debug\ConcatenateTextFiles.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\TextFiles-Homework\ConcatenateTextFiles\obj\Debug\ConcatenateTextFiles.pdb

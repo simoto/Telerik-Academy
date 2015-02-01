@@ -1,6 +1,0 @@
-c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\CorectExpressionInput\bin\Debug\CorectExpressionInput.exe.config
-c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\CorectExpressionInput\bin\Debug\CorectExpressionInput.exe
-c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\CorectExpressionInput\bin\Debug\CorectExpressionInput.pdb
-c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\CorectExpressionInput\obj\Debug\CorectExpressionInput.csprojResolveAssemblyReference.cache
-c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\CorectExpressionInput\obj\Debug\CorectExpressionInput.exe
-c:\users\simoo\documents\visual studio 2012\Projects\StringAndTextProcessing-Homework\CorectExpressionInput\obj\Debug\CorectExpressionInput.pdb

@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ReplaceHTMLTags\bin\Debug\ReplaceHTMLTags.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ReplaceHTMLTags\bin\Debug\ReplaceHTMLTags.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ReplaceHTMLTags\bin\Debug\ReplaceHTMLTags.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ReplaceHTMLTags\obj\Debug\ReplaceHTMLTags.csprojResolveAssemblyReference.cache
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ReplaceHTMLTags\obj\Debug\ReplaceHTMLTags.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ReplaceHTMLTags\obj\Debug\ReplaceHTMLTags.pdb

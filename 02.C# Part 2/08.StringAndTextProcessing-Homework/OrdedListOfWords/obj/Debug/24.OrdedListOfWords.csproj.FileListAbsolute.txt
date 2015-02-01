@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\OrdedListOfWords\bin\Debug\OrdedListOfWords.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\OrdedListOfWords\obj\Debug\OrdedListOfWords.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\OrdedListOfWords\obj\Debug\OrdedListOfWords.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\OrdedListOfWords\bin\Debug\OrdedListOfWords.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\OrdedListOfWords\obj\Debug\OrdedListOfWords.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\OrdedListOfWords\obj\Debug\OrdedListOfWords.pdb

@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\CountDifferentLetters\bin\Debug\CountDifferentLetters.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\CountDifferentLetters\bin\Debug\CountDifferentLetters.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\CountDifferentLetters\bin\Debug\CountDifferentLetters.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\CountDifferentLetters\obj\Debug\CountDifferentLetters.csprojResolveAssemblyReference.cache
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\CountDifferentLetters\obj\Debug\CountDifferentLetters.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\CountDifferentLetters\obj\Debug\CountDifferentLetters.pdb

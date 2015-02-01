@@ -1,8 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\BinarySearch\bin\Debug\BinarySearch.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\BinarySearch\bin\Debug\BinarySearch.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\BinarySearch\bin\Debug\BinarySearch.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\BinarySearch\obj\Debug\BinarySearch.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\BinarySearch\obj\Debug\BinarySearch.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\BinarySearch\bin\Debug\BinarySearch.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\BinarySearch\obj\Debug\BinarySearch.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\BinarySearch\obj\Debug\BinarySearch.pdb

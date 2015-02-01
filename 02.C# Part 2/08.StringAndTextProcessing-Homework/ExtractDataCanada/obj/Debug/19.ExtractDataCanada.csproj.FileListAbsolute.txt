@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractDataCanada\bin\Debug\ExtractDataCanada.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractDataCanada\obj\Debug\ExtractDataCanada.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\StringAndTextProcessing-Homework\ExtractDataCanada\obj\Debug\ExtractDataCanada.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ExtractDataCanada\bin\Debug\ExtractDataCanada.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ExtractDataCanada\obj\Debug\ExtractDataCanada.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\08.StringAndTextProcessing-Homework\ExtractDataCanada\obj\Debug\ExtractDataCanada.pdb

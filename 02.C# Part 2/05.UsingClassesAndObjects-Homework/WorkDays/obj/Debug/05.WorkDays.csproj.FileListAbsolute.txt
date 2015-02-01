@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects-Homework\WorkDays\bin\Debug\WorkDays.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects-Homework\WorkDays\obj\Debug\WorkDays.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects-Homework\WorkDays\obj\Debug\WorkDays.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\05.UsingClassesAndObjects-Homework\WorkDays\bin\Debug\WorkDays.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\05.UsingClassesAndObjects-Homework\WorkDays\obj\Debug\WorkDays.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\05.UsingClassesAndObjects-Homework\WorkDays\obj\Debug\WorkDays.pdb

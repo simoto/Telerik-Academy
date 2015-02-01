@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\ExceptionHandling-Homework\DownloadFile\bin\Debug\DownloadFile.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\ExceptionHandling-Homework\DownloadFile\bin\Debug\DownloadFile.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\ExceptionHandling-Homework\DownloadFile\bin\Debug\DownloadFile.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\ExceptionHandling-Homework\DownloadFile\obj\Debug\DownloadFile.csprojResolveAssemblyReference.cache
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\ExceptionHandling-Homework\DownloadFile\obj\Debug\DownloadFile.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\ExceptionHandling-Homework\DownloadFile\obj\Debug\DownloadFile.pdb

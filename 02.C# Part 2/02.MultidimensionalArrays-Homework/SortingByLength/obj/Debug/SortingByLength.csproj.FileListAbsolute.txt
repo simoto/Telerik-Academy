@@ -1,6 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\MultidimensionalArrays-Homework\SortingByLength\bin\Debug\SortingByLength.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\MultidimensionalArrays-Homework\SortingByLength\bin\Debug\SortingByLength.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\MultidimensionalArrays-Homework\SortingByLength\bin\Debug\SortingByLength.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\MultidimensionalArrays-Homework\SortingByLength\obj\Debug\SortingByLength.csprojResolveAssemblyReference.cache
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\MultidimensionalArrays-Homework\SortingByLength\obj\Debug\SortingByLength.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\MultidimensionalArrays-Homework\SortingByLength\obj\Debug\SortingByLength.pdb

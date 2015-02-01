@@ -1,9 +1,0 @@
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\AllPrimeNumbers\bin\Debug\AllPrimeNumbers.exe.config
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\AllPrimeNumbers\bin\Debug\AllPrimeNumbers.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\AllPrimeNumbers\bin\Debug\AllPrimeNumbers.pdb
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\AllPrimeNumbers\obj\Debug\15.AllPrimeNumbers.csprojResolveAssemblyReference.cache
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\AllPrimeNumbers\obj\Debug\AllPrimeNumbers.exe
-C:\Users\Simoo\Documents\Visual Studio 2012\Projects\Arrays-Homework\AllPrimeNumbers\obj\Debug\AllPrimeNumbers.pdb
-C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\AllPrimeNumbers\bin\Debug\AllPrimeNumbers.exe.config
-C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\AllPrimeNumbers\obj\Debug\AllPrimeNumbers.exe
-C:\Users\Simeon\Desktop\02.C# Part 2\01.Arrays-Homework\AllPrimeNumbers\obj\Debug\AllPrimeNumbers.pdb
