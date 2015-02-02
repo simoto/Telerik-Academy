@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ExerciseOne</title>
+</head>
+<body>
+	<form method="get" action="apply-now.php">
+	<table border="1px">
+		<tr>
+			<th align="right"><label for="lname">Last Name</label></th>
+			<td colspan="3" width="330px"><input type="text" name="lname" id="lname" placeholder="Nakov" style="width: 300px;" /></td>
+		</tr>	
+		<tr>
+			<th align="right"><label for="fname">First Name</label></th>
+			<td colspan="3"><input type="text" name="fname" id="fname" placeholder="Svetlin" style="width: 300px;"/></td>
+		</tr>		
+		<tr>
+			<th align="right"><label for="address">Address</label></th>
+			<td colspan="3">
+				<textarea name="terms" id="address" cols="30" rows="4" style="resize: none;">17 Hristo Botev Str.floor 3, ap. 12
+				</textarea></td>
+		</tr>		
+		<tr>
+			<th align="right"><label for="city">City</label></th>
+			<td>
+				<input type="text" name="cityname" placeholder="Kaspichan" id="city" style="width: 200px;" />			
+				<td>State</td>
+				<td><input type="text" name="state" style="width: 50px;"/></td>
+			</td>
+		</tr>	
+		<tr>
+			<th align="right"><label for="postcode">Zip/Postal Code</label></th>
+			<td colspan="3"><input type="text" name="postcode" placeholder="9325" id="postcode" style="width: 100px;" /></td>
+		</tr>		
+		<tr>
+			<th align="right"><label for="country">Country</label></th>
+			<td colspan="3"><select name="country" id="country">
+				<option value="BG" style="width: 200px;">Bulgaria</option>
+				<option value="GB" style="width: 200px;">Germany</option>
+				<option value="US" style="width: 200px;">United State</option>
+			</select></td>
+		</tr>		
+		<tr>
+			<th align="right" style="height: 50px; width: 200px;"><label for="phone">Phone(country code, area code, number)</label></th>
+			<td colspan="3"><span> (+ </span>
+				<input type="tel" pattern="\+[0-9]{3}" placeholder="+359" name="phone" id="phone" style="width: 70px;" /><span> ) </span>
+				<input type="tel" pattern="[0-9]{2}" placeholder="88" name="phone1" style="width: 50px;"/><span> - </span>
+				<input type="tel" pattern="[0-9]{7}" placeholder="1234567" name="phone2" style="width: 100px;" />
+			</td>
+		</tr>		
+		<tr>
+			<th align="right"><label for="emailInput">E-mail</label></th>
+			<td colspan="3"><input id="emailInput" 
+				type="email" 
+				required="true" 
+				pattern="[a-zA-Z0-9_]{3,}@[a-zA-Z0-9_]{3,}.[a-zA-Z0-9_]{2,4}"
+				placeholder="nakov@kaspichan.org" style="width: 300px;"/>
+			</td>
+		</tr>	
+		<tr>
+			<th align="right"><label for="birth">Birth date</label></th>
+			<td colspan="3">
+				<span> Month </span>
+				<input type="date" pattern="[0-9]{2}" placeholder="09" name="birth1" id="birth" style="width: 50px;"/>
+				<span>  Day </span>
+				<input type="date" pattern="[0-9]{2}" placeholder="14" name="birth2" style="width: 50px;" />
+				<span>  Year (4 digit) </span>
+				<input type="date" pattern="[0-9]{4}" placeholder="1980" name="birth3" style="width: 50px;"/>
+			</td>
+		</tr>		
+		<tr>
+			<th align="right"><label for="gender">Gender</label></th>
+			<td colspan="3"><select name="gender" id="gender">
+				<option value="M">Male</option>
+				<option value="F">Female</option>
+				<option value="O">Other</option>
+				</select>
+			</td>
+		</tr>	
+		<tr>
+			<th align="right">Starting date</th>
+			<td colspan="3">
+				<input name="sdate" type="radio" id="startdate" value="spring" />
+				<label for="startdate">Spring 2006</label>
+				<input name="sdate" type="radio" id="startdate" value="summer" />
+				<label for="startdate">Summer 2006</label>
+			</td>
+		</tr>	
+		<tr>
+			<th align="right"><label for="comments">Comments/Questions</label></th>
+			<td colspan="3"><textarea name="terms" id="comments" cols="30" rows="4" style="resize: none;">Please send me more information.</textarea></td>
+		</tr>	
+		<tr>
+			<td colspan="5" bgcolor="skyblue">
+				<center>
+					<input type="submit" name="submit" value="Submit" />
+					<input type="reset" value="Clear this Form" />
+				</center>
+			</td>
+		</tr>
+	</table>
+	</form>
+</body>
+</html>
