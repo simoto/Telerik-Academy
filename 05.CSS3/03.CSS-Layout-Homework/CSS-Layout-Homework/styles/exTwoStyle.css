@@ -1,0 +1,74 @@
+﻿body {
+            background-color:lightgray;
+        }
+        div {
+            height: 170px;
+            width: 430px;
+            margin: 15px;
+            margin-bottom: 40px;
+            background-color:white;
+            border: 1px solid gray;
+            
+        }
+        p {
+            margin: 20px;
+        }
+
+        img {
+            float:left;
+            border: 1px solid gray;
+            margin: 20px;
+            height: 120px;
+            width:170px;
+        }
+        span {
+            float:left;
+        }
+        ul {
+            list-style-type:none;
+        }
+        .buttons {
+            -moz-box-shadow: inset 16px -3px 0px 0px #a10d00;
+            -webkit-box-shadow: inset 16px -3px 0px 0px #a10d00;
+            box-shadow: inset 16px -3px 0px 0px #a10d00;
+            background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #e80f00), color-stop(1, #bf2a1c) );
+            background: -moz-linear-gradient( center top, #e80f00 5%, #bf2a1c 100% );
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e80f00', endColorstr='#bf2a1c');
+            background-color: #e80f00;
+            text-indent: 18.72px;
+            border: 1px solid #d02718;
+            display: inline-block;
+            color: #ffffff;
+            font-family: Arial;
+            font-size: 13px;
+            font-weight: normal;
+            font-style: normal;
+            height: 27px;
+            line-height: 27px;
+            width: 78px;
+            text-decoration: none;
+            text-align: center;
+            text-shadow: 1px 1px 0px #810e05;
+        }
+
+            .buttons:hover {
+                background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #bf2a1c), color-stop(1, #e80f00) );
+                background: -moz-linear-gradient( center top, #bf2a1c 5%, #e80f00 100% );
+                filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#bf2a1c', endColorstr='#e80f00');
+                background-color: #bf2a1c;
+            }
+
+            .buttons:active {
+                position: relative;
+                top: 1px;
+            }
+            #add {
+                width:65px;
+                margin-right: 15px;
+                margin-bottom:15px;
+                
+            }
+             #listen {
+                 margin-left: 40px;
+                 margin-bottom:15px;
+             }

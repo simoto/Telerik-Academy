@@ -1,0 +1,30 @@
+﻿body {
+    background-color:gray;
+}
+.firstCol {
+    color: white;
+    font-style:italic;
+    font-size: 15px;
+}
+.yellow {
+    color: yellow;
+}
+div {
+    color: red;
+}
+th {
+    color: lightgray;
+    font-size: 20px;
+    font-family:  arial;
+    float:left;
+}
+.gray {
+    color: lightgray;
+}
+.orange {
+    color: orange;
+    font: bold 15px arial;
+}
+td {
+    padding-bottom: 0.6em;
+}

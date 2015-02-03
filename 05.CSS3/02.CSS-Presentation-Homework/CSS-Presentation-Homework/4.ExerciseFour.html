@@ -1,0 +1,172 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+    <title></title>
+    <link rel="stylesheet" href="styles/ExFourStyle.css">
+</head>
+<body>
+    <div class="frame">
+        <div class="menuIconFrame clearfix">
+            <div id="icon" class="clearfix">
+                <img src="images/icon.png" alt="icon" style="height: 16px; width: 12px">
+
+            </div>
+            <div id="text" class="clearfix">Calculator</div>
+            <div class="topBar" id="exit">
+                <img src="images/exit.png" alt="exit">
+            </div>
+            <div class="topBar" id="maximize">
+                <img src="images/maximize.png" alt="maximize">
+            </div>
+            <div class="topBar" id="minimize">
+                <img src="images/minimize.png" alt="minimize">
+            </div>
+        </div>
+        <div class="main">
+            <div class="menu">
+                <div class="m" id="view">View</div>
+                <div class="m" id="edit">Edit</div>
+                <div class="m" id="help">Help</div>
+            </div>
+            <div class="internalFrame">
+                <div class="calcArea">
+                    <span>12345</span>
+                </div>
+                <div class="binaryArea">
+                    <div class="binary">
+                        0000
+                        <span>63</span>
+                        0000
+                        <span>31</span>
+                    </div>
+
+                    <div class="binary" id="b2">
+                        0000<br>
+                        <br>
+                        0000
+                    </div>
+                    <div class="binary" id="b3">
+                        0000<br>
+                        <br>
+                        0000
+                    </div>
+                    <div class="binary" id="b4">
+                        0000<br>
+                        <br>
+                        0000
+                    </div>
+                    <div class="binary" id="b5">
+                        0000
+                        <span>47</span>
+                        0000
+                        <span>15</span>
+                    </div>
+                    <div class="binary" id="b6">
+                        0000<br>
+                        <br>
+                        0000
+                    </div>
+                    <div class="binary" id="b7">
+                        0000<br>
+                        <br>
+                        0000
+                    </div>
+                    <div class="binary" id="b8">
+                        0000
+                        <span>32</span>
+                        0000<br>
+                        <span>0</span>
+                    </div>
+                </div>
+                <div class="someClass">
+                    <div class="radioMenus clearfix">
+                        <div class="notation">
+                            <form method="get">
+                                <input name="notation" type="radio">Hex<br>
+                                <input name="notation" type="radio">Dec<br>
+                                <input name="notation" type="radio">Oct<br>
+                                <input name="notation" type="radio">Bin
+                            </form>
+                        </div>
+                        <div class="qword">
+                            <form method="get">
+                                <input name="qword" type="radio">Qword<br>
+                                <input name="qword" type="radio">Dword<br>
+                                <input name="qword" type="radio">Word<br>
+                                <input name="qword" type="radio">Byte
+                            </form>
+                        </div>
+                    </div>
+                    <div class="allButtons">
+                        <div class="btnRows">
+                            <div class="btn"></div>
+                            <div class="btn activeBtnBg effect">Mod</div>
+                            <div class="btn functionBtn">A</div>
+                            <div class="btn darkerEffect">MC</div>
+                            <div class="btn darkerEffect">MR</div>
+                            <div class="btn darkerEffect">MS</div>
+                            <div class="btn darkerEffect">M+</div>
+                            <div class="btn lastRowBtn darkerEffect">M-</div>
+                        </div>
+                        <div class="btnRows activeBtn">
+                            <div class="btn activeBtnBg effect">(</div>
+                            <div class="btn activeBtnBg effect">)</div>
+                            <div class="btn functionBtn">B</div>
+                            <div class="btn activeBtnBg effect" id="arrow">←</div>
+                            <div class="btn activeBtnBg effect">CE</div>
+                            <div class="btn activeBtnBg effect">C</div>
+                            <div class="btn activeBtnBg effect">±</div>
+                            <div class="btn lastRowBtn functionBtn">√</div>
+                        </div>
+                        <div class="btnRows">
+                            <div class="btn activeBtnBg effect">RoL</div>
+                            <div class="btn activeBtnBg effect">RoR</div>
+                            <div class="btn functionBtn">C</div>
+                            <div class="btn numberBtnBG effect">7</div>
+                            <div class="btn numberBtnBG effect">8</div>
+                            <div class="btn numberBtnBG effect">9</div>
+                            <div class="btn activeBtnBg effect">/</div>
+                            <div class="btn lastRowBtn functionBtn">%</div>
+                        </div>
+                        <div class="btnRows">
+                            <div class="btn activeBtnBg effect">Or</div>
+                            <div class="btn activeBtnBg effect">Xor</div>
+                            <div class="btn functionBtn">D</div>
+                            <div class="btn numberBtnBG effect">4</div>
+                            <div class="btn numberBtnBG effect">5</div>
+                            <div class="btn numberBtnBG effect">6</div>
+                            <div class="btn activeBtnBg effect" id="asteriskSign">*</div>
+                            <div class="btn lastRowBtn functionBtn" id="overX">1/<span>x</span></div>
+                        </div>
+                        <div class="lastTwoRows clearfix">
+                            <div class="btnRowsLastTwo">
+                                <div class="btn  activeBtnBg effect">Lsh</div>
+                                <div class="btn  activeBtnBg effect">Rsh</div>
+                                <div class="btn functionBtn">E</div>
+                                <div class="btn btn numberBtnBG effect">1</div>
+                                <div class="btn btn numberBtnBG effect">2</div>
+                                <div class="btn btn numberBtnBG effect">3</div>
+                                <div class="btn activeBtnBg effect" id="minusSign">-</div>
+
+                            </div>
+                            <div class="btnRowsLastTwo">
+                                <div class="btn activeBtnBg effect">Not</div>
+                                <div class="btn activeBtnBg effect">And</div>
+                                <div class="btn functionBtn">F</div>
+                                <div class="btn btnZero activeBtnBg effect">0</div>
+                                <div class="btn functionBtn">.</div>
+                                <div class="btn activeBtnBg effect" id="plusSign">+</div>
+                            </div>
+                        </div>
+                        <div class="btn activeBtnBg effect" id="equals">=</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+
+</body>
+</html>

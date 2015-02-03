@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        ul {
+            list-style-type:none;
+        }
+        ul li a {
+            text-decoration:none;
+            color:black;
+        }
+        ul li ul li a {
+            color:gray;
+        }
+        ul li ul {
+            display:none;
+        }
+
+        ul li a:hover {
+            text-decoration:underline;                      
+        }
+        ul li:hover ul {
+            display:block;
+            text-decoration:none;
+        }
+
+
+    </style>
+</head>
+<body>
+    <ul>
+        <li>
+            <a href="#">List item</a>
+            <ul>
+                <li><a href="#">Sublist item</a></li>
+                <li><a href="#">Sublist item</a></li>
+                <li><a href="#">Sublist item</a></li>
+                <li><a href="#">Sublist item</a></li>
+            </ul>
+        </li>
+        <li><a href="#">List item</a>
+        </li>
+        <li><a href="#">List item</a>
+            <ul>
+                <li><a href="#">Sublist item</a></li>
+                <li><a href="#">Sublist item</a></li>
+                <li><a href="#">Sublist item</a></li>
+                <li><a href="#">Sublist item</a></li>
+            </ul>
+        </li>
+        <li><a href="#">List item</a>
+            <ul>
+                <li><a href="#">Sublist item</a></li>
+                <li><a href="#">Sublist item</a></li>
+                <li><a href="#">Sublist item</a></li>
+                <li><a href="#">Sublist item</a></li>
+            </ul>
+        </li>
+    </ul>
+</body>
+</html>

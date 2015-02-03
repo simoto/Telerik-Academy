@@ -1,0 +1,35 @@
+﻿
+table th {
+    background-color: rgb(83, 182, 6);
+    color: white;
+    font-size: medium;
+    font-family:"Trebuchet MS";
+    border: 2px double;
+    border-color:green;
+    padding-bottom: 10px;  
+    padding-top: 7px;
+    padding-left:10px;
+    padding-right:10px;
+    text-align:left;
+    
+}
+.padding , table td {
+    padding-left:10px;
+    padding-right: 3em;
+    padding-bottom: 10px;
+    padding-top: 7px;
+    
+}
+table td {
+    border: 1px solid;
+    border-color:lightgray;
+    font-family: "Trebuchet MS";
+}
+
+table {
+    border-collapse:collapse;
+}
+
+tr:nth-child(2n + 1) {
+    background-color: rgb(236,236,216);
+}
