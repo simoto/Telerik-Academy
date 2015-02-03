@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        //  Write a function that finds all the occurrences of word in a text
+        // The search can case sensitive or case insensitive
+        //  Use function overloading
+        var text = "Fortran (previously FORTRAN derived from Formula Translating System) is a general-purpose imperative programming language that is especially suited to numeric computation and scientific computing.";
+
+        function findWord(someText, someWord, caseSensitive) {
+            var splited = someText.split(" ");
+            var count = 0;
+            for (var i = 0; i < splited.length; i++) {
+                if (caseSensitive) {
+                    
+                    if (splited[i] === someWord) {
+                        count++;
+                    }
+                }
+                else {
+                    if (splited[i].toLowerCase() == someWord.toLowerCase()) {
+                        count++;
+                    }
+                }
+            }
+
+            return count;
+        }
+
+        var search1 = findWord(text, "Fortran", false);
+        var search2 = findWord(text, "Fortran", true);
+        console.log(search1);
+        console.log(search2);
+    </script>
+</body>
+</html>

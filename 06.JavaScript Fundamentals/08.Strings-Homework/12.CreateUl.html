@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div data-type="template" id="list-item">
+        <strong>-{name}-</strong> <span>-{age}-</span>
+    </div>
+    <script>
+        //Write a function that creates a HTML UL using a template for every HTML LI. 
+        //    The source of the list should an array of elements. Replace all placeholders marked with –{…}–  
+        //    with the value of the corresponding property of the object.
+
+        function generateList(templ, people) {
+            var holder = templ;
+            var liArr = [];
+            for (var person in people) {
+                var index = templ.indexOf("{name}");
+                var index2 = templ.indexOf("{age}");
+                templ = templ.replace("{name}", people[person].name);
+                liArr.push(templ.substr(index, people[person].name.length));
+                templ = holder;
+                templ = templ.replace("{age}", people[person].age);
+                liArr.push(templ.substr(index2, people[person].age.toString().length));
+                templ = holder;
+            }
+            return liArr;
+        }
+
+        var people = [{ name: "Slavi", age: 22 }, { name: "Petkan", age: 23 }, { name: "Ivan", age: 24 }];
+        var template = document.getElementById("list-item").innerHTML;
+        var finalArr = generateList(template, people);
+        var str = "<ul>";
+        for (var i = 0; i < finalArr.length; i+= 2) {
+            str += ("<li><strong>" + finalArr[i] + "</strong><span>" + finalArr[i + 1] + "</span></li>");
+        }
+
+        str += "</ul>";
+        document.getElementById("list-item").innerHTML = str;
+    </script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document 3</title>
+</head>
+<body>
+	<script type="text/javascript">
+		//Write a script that finds the max and min number from a sequence of numbers
+		var sequence = [1, 3, 6, 8, 34, 12, 67, 45];
+		sequence.sort(function(a,b){return a - b})
+		var min = sequence[0];
+		var max = sequence[0];
+		for(var i = 0; i < sequence.length; i++){
+			if(min > sequence[i]){
+				min = sequence[i];
+			}
+			
+			if(max < sequence[i]){
+				max = sequence[i];
+			}
+		}
+		
+		console.log('Max: ' + max);
+		console.log('Min: ' + min);
+	</script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document 2</title>
+</head>
+<body>
+	<script type="text/javascript">
+	/* Write a script that shows the sign (+ or -) of the product of three real numbers without calculating it. Use a sequence of if statements. */
+	var a = 5;
+	var b = -2;
+	var c = 3;
+	var negativeCount = 0;
+
+	if (a < 0) {
+		negativeCount++;
+	}
+	if (b < 0) {
+		negativeCount++;
+	}
+	if (c < 0) {
+		negativeCount++;
+	}
+
+	if (negativeCount % 2 == 0) {
+		console.log('+');
+	} else {
+		console.log('-');
+	}
+	</script>
+</body>
+</html>

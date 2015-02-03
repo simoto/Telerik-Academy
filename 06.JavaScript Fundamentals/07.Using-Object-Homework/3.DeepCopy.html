@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        //Write a function that makes a deep copy of an object
+        //The function should work for both primitive and reference types
+        var ObjectHandler = {
+            
+            getCloneOfObject: function(oldObject,level) {
+                var tempClone;
+
+                if ( level == undefined ) {
+                    level = 0;
+                }
+                if ( oldObject == null ) {
+                    tempClone = null;
+                }
+                else if ( typeof(oldObject) == "object" && oldObject.length != undefined )
+                {
+                    tempClone = new Array;
+                    for ( var i = 0; i < oldObject.length; ++i )
+                    {
+                        tempClone[tempClone.length] = ObjectHandler.getCloneOfObject(oldObject[i],level + 1);
+                    }
+                }
+                else if ( typeof(oldObject) == "object" )
+                {
+                    tempClone = new Object;
+                    for ( var i in oldObject )
+                    {
+                        tempClone[i] = ObjectHandler.getCloneOfObject(oldObject[i],level + 1);
+                    }
+                }
+                else
+                {
+                    print ("Level=" + level + " Plain=" + oldObject);
+                    tempClone = oldObject;
+                }
+
+                return tempClone;
+            }
+        };
+    </script>
+</body>
+</html>

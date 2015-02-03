@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <label for="input-box">Enter a number:</label>
+    <input type="text" id="input-box" />
+    
+    <button onclick="getLastNumber()">Submit</button>
+    <script>
+        /* Write a function that returns the last digit of given integer as an English word.
+        Examples: 512  "two", 1024  "four", 12309  "nine" */
+
+        function getLastNumber() {
+            var n = document.getElementById("input-box").value;
+            var lastNumber = n % 10;
+
+            switch (lastNumber) {
+                case 1: console.log("one"); break;
+                case 2: console.log("two"); break;
+                case 3: console.log("three"); break;
+                case 4: console.log("four"); break;
+                case 5: console.log("five"); break;
+                case 6: console.log("six"); break;
+                case 7: console.log("seven"); break;
+                case 8: console.log("eight"); break;
+                case 9: console.log("nine"); break;
+                case 0: console.log("zero"); break;
+                default: console.log("error!"); break;
+            }
+        }       
+    </script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        //Write a script that parses an URL address given in the format:
+        //and extracts from it the [protocol], [server] and [resource] elements. Return the elements in a JSON object.
+        function urlParser(href) {
+            var element = document.createElement('a');
+            element.href = href;
+            return {
+                
+                protocol: element.protocol,
+                server: element.hostname,
+                resourse: element.pathname
+            }
+        }
+
+        
+        var href = "http://www.devbg.org/forum/index.php";
+
+        var parsed = urlParser(href);
+        console.log(parsed.protocol);
+        console.log(parsed.server);
+        console.log(parsed.resourse);
+    </script>
+</body>
+</html>

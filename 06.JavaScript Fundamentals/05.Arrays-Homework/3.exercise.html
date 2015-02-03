@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        //Write a script that finds the maximal sequence of equal elements in an array.
+        //  Example: {2, 1, 1, 2, 3, 3, 2, 2, 2, 1}  {2, 2, 2}.
+        var arr = [2, 1, 1, 2, 3, 3, 2, 2, 2, 1];
+        var start = 0;
+        var len = 1;
+        var bestStart = 0;
+        var bestLength = 1;
+        for (var i = 0; i < arr.length - 1; i++) {
+            if (arr[i] == arr[i + 1]) {
+                len++;
+                if (len > bestLength) {
+                    bestLength = len;
+                    bestStart = start;
+                }
+            } else {
+                len = 1;
+                start = i + 1;
+            }
+        }
+
+        var result = arr.splice(bestStart, bestLength);
+        console.log(result.join(', '));
+    </script>
+</body>
+</html>

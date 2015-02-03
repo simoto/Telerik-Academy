@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        //Write a program that finds the most frequent number in an array.
+        var arr = [4, 1, 1, 4, 2, 3, 4, 4, 1, 2, 4, 9, 3];
+        selectionSort(arr);
+
+        var start = 0;
+        var len = 1;
+        var bestStart = 0;
+        var bestLength = 1;
+        for (var i = 0; i < arr.length - 1; i++) {
+            if (arr[i] == arr[i + 1]) {
+                len++;
+                if (len > bestLength) {
+                    bestLength = len;
+                    bestStart = start;
+                }
+            } else {
+                len = 1;
+                start = i + 1;
+            }
+        }
+
+        var result = arr.splice(bestStart, bestLength);
+        console.log(result[0] + " (" + result.length + " times)");
+
+        function selectionSort(sortMe) {
+            var i, j, tmp, tmp2;
+            for (i = 0; i < sortMe.length - 1; i++) {
+                tmp = i;
+                for (j = i + 1; j < sortMe.length; j++)
+                    if (sortMe[j] < sortMe[tmp])
+                        tmp = j;
+
+                tmp2 = sortMe[tmp];
+                sortMe[tmp] = sortMe[i];
+                sortMe[i] = tmp2;
+            }
+        }
+    </script>
+</body>
+</html>

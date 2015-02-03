@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document 6</title>
+</head>
+<body>
+	<script type="text/javascript">
+	/* Write a script that enters the coefficients a, b and c of a quadratic equation
+		a*x2 + b*x + c = 0   and calculates and prints its real roots. Note that quadratic equations may have 0, 1 or 2 real roots. */
+		var a = prompt('Enter a: ', 0);
+		var b = prompt('Enter b: ', 0);
+		var c = prompt('Enter c: ', 0);
+
+		var d = b*b - 4*a*c;
+
+		if (d < 0) {
+			alert('The equation has no roots');
+		} else if (d == 0) {
+			alert('The equation has one root: ' + Math.sqrt(d) / 2*a );
+		} else {
+			alert('x1 = ' + (((-1*b + (Math.sqrt(d))) / (2*a) )) + ' x2 = ' + (((-1*b - Math.sqrt(d)) / (2*a) )) );
+		}
+		console.log(d);
+	</script>
+</body>
+</html>

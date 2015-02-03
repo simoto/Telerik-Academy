@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        //Write a program that extracts from a given text all palindromes, e.g. "ABBA", "lamal", "exe".
+        var text = "Write a program that extracts from a given text all palindromes e.g. ABBA lamal exe";
+        var words = text.split(" ");
+        var word = "";
+        var final = [];
+        for (var i = 0; i < words.length; i++)
+        {
+            word = words[i];
+            var wordLength = Math.floor(word.length / 2);
+            for (var j = 0; j < wordLength; j++)
+            {
+                if (word[j] === word[(word.length - 1) - j])
+                {
+                    final.push(words[i]);
+                }
+            }
+        }
+        console.log(final.join(", "));
+    </script>
+</body>
+</html>

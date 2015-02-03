@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document 8</title>
+</head>
+<body>
+	<script type="text/javascript">
+    /* Write a script that converts a number in the range [0...999] to a text corresponding to its English pronunciation. */
+	var number = prompt("Enter number from 0 to 999: ", 0);
+	var dg = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine'];
+	var tn = ['ten', 'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen', 'sixteen',
+	 'seventeen', 'eighteen', 'nineteen'];
+	var tw = ['', '', 'twenty', 'thirty', 'forty', 'fifty', 'sixty', 'seventy', 'eighty', 'ninety'];
+
+	var array1 = number.split("");
+	var arrLen = array1.length;
+
+    if (arrLen == 1) {
+         document.write(dg[array1[0]]);
+    }
+
+    if (arrLen == 2) {
+        if (array1[0] == 1) {
+            document.write(tn[array1[1]]);
+        }
+        if ((array1[0] >= 2) && (array1[0] < 9)) {
+            document.write(tw[array1[0]] + " " + dg[array1[1]] + "match");
+        }
+    }
+
+    if (arrLen == 3) {
+        if (array1[1] == 1) {
+            document.write(dg[array1[0]] + " hundred " + tn[array1[1]]);
+        }
+        if ((array1[1] >= 2) && (array1[1] < 9)) {
+            document.write(dg[array1[0]] + " hundred " + tw[array1[1]] + " " + dg[array1[2]]);
+        }
+
+    }
+	</script>
+</body>
+</html>

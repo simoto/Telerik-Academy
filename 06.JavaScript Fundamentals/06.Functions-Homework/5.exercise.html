@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <label for="input-box">Enter a number:</label>
+    <input type="text" id="input-box" />
+    <button onclick="countArrElement()">Submit</button>
+    <script>
+        //Write a function that counts how many times given number appears in given array. 
+        //    Write a test function to check if the function is working correctly.
+
+        var arr = [1, 1, 2, 1, 4, 6, 2, 1, 23, 3, 7, 1];
+        var count = 0;
+        
+        function countArrElement() {
+            var input = document.getElementById("input-box").value;
+            for (var i = 0; i < arr.length; i++) {
+            
+                if (arr[i] == input) {
+                    count++;
+                }
+
+            }
+
+            console.log(count);
+            
+        }
+        
+    </script>
+</body>
+</html>

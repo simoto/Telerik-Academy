@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document 4</title>
+</head>
+<body>
+	<script type="text/javascript">
+	/* Sort 3 real values in descending order using nested if statements. */
+		var a = 4;
+		var b = 5;
+		var c = 3;
+
+		if (a > b) {
+			if (a > c) {
+				console.log(a);
+				if (b > c) {
+					console.log(b);
+					console.log(c);
+				} else {
+					console.log(c);
+					console.log(b);
+				}
+			}
+		}
+		if (b > a) {
+			if (b > c) {
+				console.log(b);
+				if (a > c) {
+					console.log(a);
+					console.log(c);
+				} else {
+					console.log(c);
+					console.log(a);
+				}
+			}
+		}
+		if (c > a) {
+			if (c > b) {
+				console.log(c);
+				if (a > b) {
+					console.log(a);
+					console.log(b);
+				} else {
+					console.log(b);
+					console.log(a);
+				}
+			}
+		}
+	</script>
+</body>
+</html>

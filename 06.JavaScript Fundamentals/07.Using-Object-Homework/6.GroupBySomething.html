@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        //Write a function that groups an array of persons by age, first or last name. 
+        //The function must return an associative array, with keys - the groups, and values 
+        //-arrays with persons in this groups
+        
+        function group(person, parameter) {
+            var grouped;
+            if (parameter == "firstname") {
+                grouped = person.sort(function (a, b) {
+                    return a.firstname > b.firstname;
+                });
+            }
+            else if (parameter == "age") {
+                grouped = person.sort(function (a, b) {
+                    return a.age - b.age;
+                });
+            }
+            else {
+                grouped = person.sort(function (a, b) {
+                    return a.lastname > b.lastname;
+                });
+            }
+
+            return grouped;
+        }
+
+        var persons = [
+            { firstname: 'Gosho', lastname: 'Petrov', age: 32 },
+            { firstname: 'Bay', lastname: 'Ivan', age: 81 },
+            { firstname: 'Bay', lastname: 'Dragan', age: 23 },
+            { firstname: 'Bay', lastname: 'Petkan', age: 13 }
+        ];
+
+        var sortedByAge = group(persons, 'age');
+        console.log(sortedByAge);
+
+        var sortedByFname = group(persons, "firstname");
+        console.log(sortedByFname);
+    </script>
+</body>
+</html>

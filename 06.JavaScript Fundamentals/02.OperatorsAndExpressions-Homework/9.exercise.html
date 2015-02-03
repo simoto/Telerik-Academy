@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document 9</title>
+</head>
+<body>
+	<script type="text/javascript">
+		var x = prompt('Enter x: ', 0);
+		var y = prompt('Enter y: ', 0);
+		var isInside = Math.sqrt((x - 1) * (x - 1) + (y - 1) * (y - 1)) <= 3;
+
+		if (isInside == true) {
+    		if (x < -1 || x > 5 || y < -1 || y > 1) {
+        		alert('The point is inside the circle and outside the rectangle!');
+    		} else {
+        	alert('The point is inside the rectangle!');
+    		}
+		} else {
+    		alert('The point is outside the circle!');
+		}
+	</script>
+</body>
+</html>

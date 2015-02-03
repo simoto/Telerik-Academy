@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        //Write a function that formats a string using placeholders:
+        //The function should work with up to 30 placeholders and all types
+
+        function stringFormat(text, wordsArr) {
+            var strB = buildStringBuilder();
+            var beggining = 0;
+            var index = text.indexOf("{");
+            while (index > -1) {
+                var number = parseInt(text.substr(index + 1, 1));
+                strB.append(text.substring(beggining, index - 1) + " ");
+                strB.append(wordsArr[number] + " ");
+                beggining = index + 3;
+                index = text.indexOf("{", index + 1);
+            }
+            return strB.toString();
+        }
+        function buildStringBuilder() {
+            return {
+                strs: [],
+                len: 0,
+                append: function (str) {
+                    this.strs[this.len++] = str;
+                    return this;
+                },
+                toString: function () {
+                    return this.strs.join("");
+                }
+            };
+        }
+
+        var str = stringFormat("Hello {0}!", ["Peter"]);
+        console.log(str);
+
+        var format = "{0}, {1}, {0} text {2}";
+        var str2 = stringFormat(format, [1, "Pesho", "Gosho"]);
+        console.log(str2);
+    </script>
+</body>
+</html>

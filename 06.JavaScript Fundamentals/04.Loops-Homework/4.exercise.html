@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document 4</title>
+</head>
+<body>
+	<script type="text/javascript">
+	/* Write a script that finds the lexicographically smallest and largest property in document, window and navigator objects */
+
+		var outTxt = "";
+		var arr;
+		for(var property in window){
+			outTxt += property+" ";
+		}
+
+		for(var property in navigator) {
+			outTxt += property+" ";
+		}
+
+		for(var property in document) {
+			outTxt += property+" ";
+		}
+
+		arr = outTxt.split(" ");
+		
+		var smallest = arr[0];
+		var largest = arr[0];
+		
+		for(var i = 0; i < arr.length; i++){
+			if(smallest > arr[i]){
+				smallest = arr[i];
+			}
+			
+			if(largest < arr[i]){
+				largest = arr[i];
+			}
+		}
+		outTxt = "Min: " + smallest + ";\nMax: "+ largest + ";";
+		console.log(outTxt);
+	</script>
+</body>
+</html>

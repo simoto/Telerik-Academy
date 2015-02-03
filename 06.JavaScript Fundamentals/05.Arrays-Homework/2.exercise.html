@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        //Write a script that compares two char arrays lexicographically (letter by letter).
+        var arr = ["a", "b", "c", "d", "e"];
+        var arr2 = ["b", "c","e", "f", "t"];
+
+        for (var i = 0; i < arr.length; i++) {          
+            for (var j = 0; j < arr2.length; j++) {
+                if (arr[i] == arr2[j]) {
+                    console.log("elements are equals")
+                }
+				else if(arr[i] > arr2[j]){
+					console.log("The element from second array is before element from the first");
+				}
+				else {
+					console.log("The element from first array is before element from the second");
+				}
+            }
+        }
+    </script>
+</body>
+</html>

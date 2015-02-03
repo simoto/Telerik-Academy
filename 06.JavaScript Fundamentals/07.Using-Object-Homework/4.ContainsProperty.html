@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        //Write a function that checks if a given object contains a given property
+        function hasProperty(obj, property) {
+
+            for (var prop in obj) {
+
+                if (prop === property) {
+                    return true;
+                }
+            }
+
+            return false;
+        }
+
+        var testObj = {
+            firstName: "Pesho",
+            lastName: "Peshev",
+            age: 25,
+            country: "Bulgaria"
+        };
+
+        var has = hasProperty(testObj, 'age');
+        console.log(has);
+    </script>
+</body>
+</html>

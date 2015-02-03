@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document 2</title>
+</head>
+<body>
+	<script type="text/javascript">
+	//Write a script that prints all the numbers from 1 to N, that are not divisible by 3 and 7 at the same time
+		var a = prompt('Enter a number: ', 0);
+		var parsedInt = parseInt(a);
+		for (var i = 1; i <= parsedInt; i++) {
+			if (i % 3 != 0 && i % 7 != 0) {
+				console.log(i);
+			}
+		}
+	</script>
+</body>
+</html>
