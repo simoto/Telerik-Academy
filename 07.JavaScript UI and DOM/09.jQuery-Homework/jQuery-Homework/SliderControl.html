@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Slider Control</title>
+    <style>
+        .slider {
+            width: 800px;
+            height: 500px;
+            overflow:hidden;
+            margin: 20px auto;
+        }
+
+        .slider img {
+            width: 800px;
+            height: 500px;
+            display:none;
+        }
+
+        div {
+            margin: 10px auto;
+            width:800px;
+        }
+
+        #next {
+            float:right;
+        }
+    </style>
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+</head>
+<body>
+    <div class="slider">
+        <img id="1" src="images/Borovets1.jpg" alt="Borovets photo 1" />
+        <img id="2" src="images/Borovets2.jpg" alt="Borovets photo 2" />
+        <img id="3" src="images/Borovets3.jpg" alt="Borovets photo 3" />
+        <img id="4" src="images/Borovets4.jpg" alt="Borovets photo 4" />
+    </div>
+    <div>
+        <button id="prev" onclick="previousSlide()">Previous</button>
+        <button id="next" onclick="nextSlide()">Next</button>
+    </div>
+    
+    <script>
+        var count = 2;
+        var slideNumber = 2;
+        function slider() {
+            $('.slider #1').show('slide');
+            $('.slider #1').delay(5000).hide('slow');
+
+            var sc = $('.slider img').size();
+            
+            
+            setInterval(function () {
+                $('.slider #' + count).show('slide');
+                $('.slider #' + count).delay(5000).slideUp('slow');
+
+                if (count == sc) {
+                    count = 1;
+                }
+                else {
+                    count+= 1;
+                }
+
+                slideNumber = count;
+            }, 5500)
+        };
+
+        window.onload = slider();
+        
+        var newSlide;
+
+        function previousSlide() {
+            newSlide = slideNumber - 1;
+            showSlide(newSlide);
+        }
+
+        function nextSlide() {
+            newSlide = slideNumber + 1;
+            showSlide(newSlide);
+        }
+
+        function showSlide(id) {
+            if (id > count) {
+                id = 1;
+            }
+            else if(id < 1) {
+                id = count;
+            }
+
+            $('div.slider img').hide(300);
+            $('.slider img#' + id).show('slide');
+
+            slideNumber = id;
+            count = id + 1;
+        }        
+
+    </script>
+</body>
+</html>

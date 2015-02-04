@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        #wrapper {
+            width:960px;
+
+        }
+        #todo-list {
+            border: 1px solid black;
+            padding-left: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div id="wrapper">
+        <label for="input-text">Enter new item:</label>  
+        <input type="text" id="input-text" name="textInput" value=" " />
+        <button id="add-new-item">Add item</button>
+        <button id="delete-new-item">Delete item</button>
+        <button id="show-list">Show list</button>
+        <button id="hide-list">Hide list</button>
+        <div id="todo-list">
+
+        </div>
+    </div>
+    <script>
+        var allItems = [];
+        var addButton = document.getElementById("add-new-item");
+
+        addButton.addEventListener("click", function () {            
+            allItems.push("<p> added " + document.getElementById("input-text").value + "</p>");
+            updateList(allItems);
+        });
+
+        var removeButton = document.getElementById("delete-new-item");
+
+        removeButton.addEventListener("click", function () {
+            if (allItems.indexOf("<p> added " + document.getElementById("input-text").value + "</p>") >= 0) {
+                allItems.splice(allItems.indexOf("<p> added " + document.getElementById("input-text").value + "</p>"), 1)
+            }
+            updateList(allItems);
+        })
+
+        var showButton = document.getElementById("show-list");
+
+        showButton.addEventListener("click", function () {
+            var current = document.getElementById("todo-list");
+            current.style.visibility = "visible";
+        })
+
+        var hideButton = document.getElementById("hide-list");
+
+        hideButton.addEventListener("click", function () {
+            var current = document.getElementById("todo-list");
+            current.style.visibility = "hidden";
+        })
+        function updateList(items) {
+            var current = document.getElementById("todo-list");
+            current.innerHTML = "";
+            for (var i = 0; i < items.length; i++) {
+                current.innerHTML += items[i];
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        #the-canvas {
+            border: 1px solid black;
+        }
+    </style>
+
+</head>
+<body>
+    <canvas id="the-canvas" width="500" height="500" />
+    <script>
+        window.onload = function () {
+            var canvas = document.getElementById('the-canvas');
+            var ctx = canvas.getContext('2d');
+            
+            //left circle
+            ctx.beginPath();
+            ctx.lineWidth = "2";
+            ctx.strokeStyle = "#77B5C4";
+            ctx.fillStyle = "#90CAD7";
+            ctx.arc(100, 150, 50, 0, 2 * Math.PI);
+            ctx.fill();
+            ctx.stroke();
+
+            //right circle
+            ctx.beginPath();
+            ctx.arc(300, 150, 50, 0, 2 * Math.PI);
+            ctx.fill();
+            ctx.stroke();
+
+
+            ctx.beginPath();
+            ctx.moveTo(100, 150);
+            ctx.lineTo(160, 80);
+            ctx.lineTo(280, 80);
+            ctx.lineTo(190, 150);
+            ctx.lineTo(100, 150);
+            ctx.stroke();
+
+            ctx.beginPath();
+            ctx.moveTo(300, 150);
+            ctx.lineTo(270, 45);
+            ctx.lineTo(230, 60);
+            ctx.moveTo(270, 45);
+            ctx.lineTo(300, 15);
+            ctx.stroke();
+
+            ctx.beginPath();
+            ctx.moveTo(190, 150);
+            ctx.lineTo(150, 60);
+            ctx.moveTo(130, 60);
+            ctx.lineTo(170, 60);
+            ctx.stroke();
+
+            ctx.beginPath();
+            ctx.arc(190, 150, 15, 0, 2 * Math.PI);
+            ctx.stroke();
+
+            ctx.beginPath();
+            ctx.moveTo(190 + 10, 150 + 10);
+            ctx.lineTo(210, 170);
+            ctx.stroke();
+
+            ctx.beginPath();
+            ctx.moveTo(190 - 10, 150 - 10);
+            ctx.lineTo(170, 130);
+            ctx.stroke();
+        }
+    </script>
+</body>
+</html>

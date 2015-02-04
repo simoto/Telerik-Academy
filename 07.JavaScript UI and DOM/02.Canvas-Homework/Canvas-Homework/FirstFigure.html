@@ -1,0 +1,124 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+       #the-canvas {
+           border: 1px solid black;
+       }
+    </style>
+</head>
+<body>
+    <canvas id="the-canvas" width="500" height="500" />
+    <script>
+        window.onload = function () {
+            var canvas = document.getElementById('the-canvas');
+            var ctx = canvas.getContext('2d');
+            //the head
+            ctx.beginPath();
+            ctx.scale(1, 0.85);
+            ctx.arc(100, 200, 60, 0, Math.PI * 3, false);
+            ctx.lineWidth = 2;
+            ctx.fillStyle = "#90CAD7";
+            ctx.strokeStyle = '#1D4F5A';
+            ctx.fill();
+            ctx.stroke();
+
+
+
+
+            //the left eye
+            ctx.beginPath();
+            ctx.scale(1, 0.80);
+            ctx.arc(70, 220, 10, 0, Math.PI * 3, false);
+            ctx.lineWidth = 2;
+            ctx.fillStyle = "#90CAD7";
+            ctx.strokeStyle = '#1D4F5A';
+            ctx.fill();
+            ctx.stroke();
+
+            ctx.beginPath();
+            ctx.arc(65, 220, 5, 0, Math.PI * 3, false);
+            ctx.lineWidth = 2;
+            ctx.fillStyle = "#22545F";
+            ctx.strokeStyle = '#1D4F5A';
+            ctx.fill();
+            ctx.stroke();
+
+            //the right eye
+            ctx.beginPath();
+            ctx.arc(110, 220, 10, 0, Math.PI * 3, false);
+            ctx.lineWidth = 2;
+            ctx.fillStyle = "#90CAD7";
+            ctx.strokeStyle = '#1D4F5A';
+            ctx.fill();
+            ctx.stroke();
+
+            ctx.beginPath();
+            ctx.arc(105, 220, 5, 0, Math.PI * 3, false);
+            ctx.lineWidth = 2;
+            ctx.fillStyle = "#22545F";
+            ctx.strokeStyle = '#1D4F5A';
+            ctx.fill();
+            ctx.stroke();
+
+            //the nose
+            ctx.beginPath();
+            ctx.moveTo(90, 220);
+            ctx.lineTo(80, 260);
+            ctx.lineTo(90, 260);
+            ctx.stroke();
+
+            ctx.rotate(15 * Math.PI / 180);
+            //the mouth
+            ctx.beginPath();           
+            ctx.arc(170, 260, 15, 0, Math.PI * 3, false);            
+            ctx.lineWidth = 2;
+            ctx.strokeStyle = '#1D4F5A';            
+            ctx.stroke();
+            
+            //the hat
+            ctx.beginPath();
+            ctx.rotate(-15 * Math.PI / 180);
+            ctx.scale(1, 0.30);
+            ctx.arc(100, 580, 60, 0, Math.PI * 3, false);
+            ctx.lineWidth = 3;
+            ctx.fillStyle = "#396693";
+            ctx.strokeStyle = '#1D4F5A';
+            ctx.fill();
+            ctx.stroke();
+
+            
+            
+
+            ctx.beginPath();
+            ctx.scale(1, 1.8);
+            ctx.moveTo(70, 160);
+            ctx.lineTo(70, 300);
+            ctx.lineTo(130, 300);
+            ctx.lineTo(130, 160);
+            ctx.fill();
+            ctx.stroke();
+
+            ctx.beginPath();
+            //scale(1, 1.8);
+            ctx.arc(100, 300, 30, 0, Math.PI * 3, false);
+            ctx.lineWidth = 3;
+            ctx.fillStyle = "#396693";
+            ctx.strokeStyle = '#1D4F5A';
+            ctx.fill();
+            ctx.stroke();
+
+            ctx.beginPath();
+            ctx.arc(100, 160, 30, 0, Math.PI * 3, false);
+            ctx.lineWidth = 3;
+            ctx.fillStyle = "#396693";
+            ctx.strokeStyle = '#1D4F5A';
+            ctx.fill();
+            ctx.stroke();
+
+            
+        };
+    </script>
+</body>
+</html>

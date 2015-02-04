@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        #content, body, html {
+			min-height: 100%;
+			background: #ccc;
+		}
+    </style>
+</head>
+<body>
+    <input type="text" id="tb-box-count" />
+    <a href="#" id="generate-boxes-btn" onclick="onGenerateBoxesButtonClick()">Generate boxes</a>
+    <div id="content">
+    </div>
+    <script>
+        var maxWidth = screen.width - 100;
+        var maxHeight = screen.height - 300;
+        function onGenerateBoxesButtonClick() {
+            var contentDiv = document.getElementById("content");
+            
+            while (contentDiv.firstChild) contentDiv.removeChild(contentDiv.firstChild);
+
+            var count = (document.getElementById("tb-box-count").value | 0) || 5;
+
+            for (var i = 0; i < count; i++) {
+                var div = document.createElement("div");
+                div.className = "generated";
+                contentDiv.appendChild(div);
+            }
+
+            generateShinyDivs(count);
+        }
+
+        function generateShinyDivs(count) {
+
+            for (var i = 0; i < count; i++) {
+                var shinyDiv = document.createElement("div");
+                shinyDiv.classList.add("generated");
+                makeRandomDiv(shinyDiv);
+                content.appendChild(shinyDiv);
+            }
+        }
+
+        //random color generator
+        function generateRandomColor() {
+            var red = (Math.random() * 256) | 0;
+            var green = (Math.random() * 256) | 0;
+            var blue = (Math.random() * 256) | 0;
+
+            return "rgb(" + red + "," + green + "," + blue + ")";
+        }
+
+        function generateRandomWidthOrHeight() {
+            var widthOrHeight = (Math.random() * 80 | 0) + 20;
+
+            return widthOrHeight + "px";
+        }
+
+        function generateRandomBorder() {
+            var border = ((Math.random() * 19) | 0) + 1;
+            return border + "px solid " + generateRandomColor();
+        }
+
+        function generateRandomBorderRadius() {
+            var borderRadius = ((Math.random() * 19) | 0) + 1;
+            return borderRadius + "px";
+        }
+        function makeRandomDiv(someDiv) {
+            someDiv.style.width = generateRandomWidthOrHeight();
+            someDiv.style.height = generateRandomWidthOrHeight();
+            someDiv.style.position = "absolute";           
+            var topPos = parseInt(Math.random() * (maxHeight - 40));
+            someDiv.style.top = topPos + "px";
+            var left = parseInt(Math.random() * (maxWidth - 40));
+            someDiv.style.left = left + "px";
+            someDiv.style.backgroundColor = generateRandomColor();
+            someDiv.innerHTML += "<strong>Div</strong>";
+            someDiv.style.color = generateRandomColor();
+            someDiv.style.border = generateRandomBorder();
+            someDiv.style.borderRadius = generateRandomBorderRadius();
+
+        }
+    </script>
+</body>
+</html>

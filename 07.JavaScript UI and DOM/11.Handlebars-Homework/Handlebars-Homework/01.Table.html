@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="libs/handlebars.min.js"></script>
+    <style>
+        table,thead,tbody,tr,th,td {
+            border: 1px solid black;
+            border-collapse:collapse;
+        }
+        table {
+            font-family: Calibri;
+            font-weight:bold;
+        }
+
+        th {
+            color: white;
+            background-color:lightslategray;
+        }
+
+        tr:nth-child(2n) {
+            background-color:lightgray;
+        }
+
+        td:first-of-type {
+            text-align:center;
+        }
+        
+        td:nth-child(2) {
+            padding-right:30px;
+        }  
+        
+        td:nth-child(3) {
+            padding-left:5px;
+            padding-right:5px;
+        }   
+
+        td:nth-child(4) {
+            padding-left:5px;
+            padding-right:5px;
+        }
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+    <script type="text/x-handlebars-template" id="post-template">
+        <table class='table-post'>
+            <thead>
+                <tr>
+                    <th>№</th>
+                    <th>Title</th>
+                    <th>Data #1</th>
+                    <th>Data #2</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#posts}}
+                <tr>
+                    <td>{{@index}}</td>
+                    <td>{{name}}</td>
+                    <td>{{dateOne}}</td>
+                    <td>{{dateTwo}}</td>
+                </tr>
+                {{/posts}}
+            </tbody>
+        </table>
+    </script>
+    <script>
+        var post,
+            postTemplateHTML,
+            postTemplate;
+        posts = [{
+            name: 'Course Introduction',
+            dateOne: 'Wed 18:00, 28-May-2014',
+            dateTwo: 'Thu 14:00, 29-May-2014'
+        },
+               {
+                   name: 'Document Object Model',
+                   dateOne: 'Wed 18:00, 28-May-2014',
+                   dateTwo: 'Thu 14:00, 29-May-2014'
+               },
+             {
+                 name: 'HTML5 Canvas',
+                 dateOne: 'Wed 18:00, 28-May-2014',
+                 dateTwo: 'Thu 14:00, 29-May-2014'
+             },
+              {
+                  name: 'Kinetic JS Overview',
+                  dateOne: 'Wed 18:00, 28-May-2014',
+                  dateTwo: 'Thu 14:00, 29-May-2014'
+              },
+               {
+                   name: 'SVG and Raphael',
+                   dateOne: 'Wed 18:00, 28-May-2014',
+                   dateTwo: 'Thu 14:00, 29-May-2014'
+               }
+        ];
+
+        postTemplateHTML = document.getElementById('post-template').innerHTML;
+
+        postTemplate = Handlebars.compile(postTemplateHTML);
+
+        document.getElementById('root').innerHTML = postTemplate({
+            posts: posts
+        });
+
+
+    </script>
+</body>
+</html>

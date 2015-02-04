@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+</head>
+<body>
+    <label for="bodyColor">Change background color: </label>
+    <input id="bodyColor" type="color" name="bodyColor" value=" " />
+    <script>
+        $('#bodyColor').change(function () {
+            var color = document.getElementById("bodyColor").value;
+            $('body').css("background-color", color);
+        })
+    </script>
+</body>
+</html>

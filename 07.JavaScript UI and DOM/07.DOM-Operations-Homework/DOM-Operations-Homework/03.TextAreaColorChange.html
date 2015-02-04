@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        textarea {
+            height: 300px;
+            width: 300px;
+        }
+    </style>
+</head>
+<body>
+    <textarea >content</textarea>
+    <label for="firstInput">Change font color: </label>
+    <input type="color" name="firstInput" id="firstInput" onchange="changeTextAreaColor()" value=" " />
+    <label for="secondInput">Change background color: </label>
+    <input type="color" name="secondInput" id="secondInput" onchange="changeTextAreaBackground()" value=" " />
+    <script>
+        function changeTextAreaColor() {
+            document.getElementsByTagName("textarea")[0].style.color = document.getElementById("firstInput").value;
+        }
+
+        function changeTextAreaBackground() {
+            document.getElementsByTagName("textarea")[0].style.backgroundColor = document.getElementById("secondInput").value;
+        }
+    </script>
+</body>
+</html>

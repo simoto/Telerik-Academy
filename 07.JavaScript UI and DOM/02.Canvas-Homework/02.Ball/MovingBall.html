@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        #the-canvas {
+            border: 1px solid black;
+        }
+    </style>
+
+</head>
+<body>
+    <canvas id="the-canvas" width="800" height="600" />
+    <script>
+        window.onload = function () {
+            var canvas = document.getElementById('the-canvas');
+            var ctx = canvas.getContext("2d");
+
+            ctx.strokeStyle = '#000';
+            ctx.lineWidth = '2';
+
+            ctx.strokeRect(150, 150, 350, 250);
+            ctx.stroke();
+
+            function drowBall(x, y, r, from, to, clock) {
+                ctx.beginPath();
+                ctx.arc(x, y, r, from, to, clock);
+                ctx.stroke();
+            }
+
+            var x = 190,
+                y = 240,
+                r = 10,
+                from = 0,
+                to = Math.PI * 2,
+                clock = false,
+                update = 5;
+            updateX = 5;
+            updateY = 5;
+
+
+            function moveBall() {
+                ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
+                ctx.strokeRect(180, 180, 350, 250);
+                ctx.stroke();
+                drowBall(x, y, r, from, to, clock);
+
+                if (x + r >= 530) {
+                    updateX = -5;
+                }
+                if (x + r <= 200) {
+                    updateX = 5;
+                }
+
+                if (y + r <= 200) {
+                    updateY = 5;
+                }
+                if (y + r >= 430) {
+                    updateY = -5;
+                }
+
+                x += updateX;
+                y += updateY;
+                requestAnimationFrame(moveBall);
+            }
+            requestAnimationFrame(moveBall);
+        }
+    </script>
+</body>
+</html>

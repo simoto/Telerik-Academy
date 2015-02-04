@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="scripts/jquery.min.js"></script>
+</head>
+<body>
+    <select id="dropdown">
+        <option value="1">One</option>
+        <option value="2">Two</option>
+    </select>
+    <script>
+        $.fn.dropdown = function () {
+            var $this = this;
+            $this.css("display", "none");
+            var $this = $this.children();
+            var newHTML = '<div class="dropdown-list-container">' +
+                '<ul class="dropdown-list-options">';
+
+            for (var i = 0; i < $this.length; i++) {
+                newHTML += '<li class="dropdown-list-option" data-value="' + $this[i].value + '">' +
+                    $this[i].innerHTML + '</li>';
+                
+            }
+
+            newHTML += "</ul>" + "</div>";
+            
+           return document.body.innerHTML += newHTML;
+        }
+        $(document).ready(function () {
+            $('#dropdown').dropdown();            
+        })
+    </script>
+</body>
+</html>
