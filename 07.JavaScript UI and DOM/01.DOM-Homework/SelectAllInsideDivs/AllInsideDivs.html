@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <header>
+        <div id="outDiv">Not inside div</div>
+    </header>
+    <div id="outDiv">
+        <div>Inside Div 1</div>
+        <div>Inside Div 2</div>
+        <div>Inside Div 3</div>
+        <div>Inside Div 4</div>
+        <div>Inside Div 5</div>
+    </div>
+    <div id="outDiv">You can see the result on the console!</div>
+    <script>
+
+        //Write a script that selects all the div nodes that are directly inside other div elements
+
+        var insideDivs = document.querySelectorAll("div > div");
+
+        for (var i = 0; i < insideDivs.length; i++) {
+            console.log(insideDivs[i].innerHTML);
+        }
+        console.log("-------------------------")
+
+        //this here doesn't work... :(
+        var nodes = document.body.getElementsByTagName("div");
+   
+        for (var i = 0; i < nodes.length; i++) {
+            console.log(nodes[i].innerHTML);
+        }
+        
+        
+    </script>
+</body>
+</html>

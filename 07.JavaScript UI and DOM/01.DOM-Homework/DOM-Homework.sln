@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectAllInsideDivs", "SelectAllInsideDivs\SelectAllInsideDivs.csproj", "{AB921223-578C-4301-9A13-0F393E06F454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetInputValue", "GetInputValue\GetInputValue.csproj", "{EDBCA157-D7FA-4A58-8C84-6475783A5A6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetBackgroundByInput", "SetBackgroundByInput\SetBackgroundByInput.csproj", "{338FD2C4-D957-4A90-BF62-5C63B26AB541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB921223-578C-4301-9A13-0F393E06F454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB921223-578C-4301-9A13-0F393E06F454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB921223-578C-4301-9A13-0F393E06F454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB921223-578C-4301-9A13-0F393E06F454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDBCA157-D7FA-4A58-8C84-6475783A5A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBCA157-D7FA-4A58-8C84-6475783A5A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBCA157-D7FA-4A58-8C84-6475783A5A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBCA157-D7FA-4A58-8C84-6475783A5A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{338FD2C4-D957-4A90-BF62-5C63B26AB541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338FD2C4-D957-4A90-BF62-5C63B26AB541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338FD2C4-D957-4A90-BF62-5C63B26AB541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338FD2C4-D957-4A90-BF62-5C63B26AB541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <label for="bcolor">Set background color: </label>
+    <input type="color" id="bcolor" name="name" value=" " onchange="setColor()" />
+    <script>
+        //Crеate a function that gets the value of <input type="color"> and sets the background of the body to this value
+
+       function setColor() {
+            document.body.bgColor = document.getElementById("bcolor").value;
+       }
+    </script>
+</body>
+</html>

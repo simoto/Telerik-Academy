@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <label for="textValue">Enter Text: </label>
+    <input type="text" id="textValue" name="name" value=" " />
+    <button onclick="PrintValue()"> Submit</button>
+    <script>
+        //Create a function that gets the value of <input type="text"> ands prints its value to the console
+
+        function PrintValue() {
+            var input = document.getElementById("textValue").value;
+            console.log(input);
+        }
+    </script>
+</body>
+</html>
