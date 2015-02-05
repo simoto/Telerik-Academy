@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Rams and Sheeps</title>
+    <style>
+        body {
+            font-family: Consolas;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Rams and Sheeps guessture game!</h1>
+    <p>You must enter four digits in the input field to guess the number.</p>
+    <label for="input">Enter four digits: </label>
+    <input type="text" id="input" name="name" value=" " />
+    <button id="submit">Submit</button>
+    <button id="endgame">End Game</button>
+    <button id="clear-local" onclick="clearLocalStorage()">Clear localStorage</button>
+    <div id="sheeps"></div>
+    <div id="rams"></div>
+    <ul id="highscores">Highscores</ul>
+    <script src="guessGame.js"></script>
+</body>
+</html>

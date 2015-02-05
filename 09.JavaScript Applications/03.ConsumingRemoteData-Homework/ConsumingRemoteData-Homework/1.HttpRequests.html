@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Get and post JSON data</title>
+</head>
+<body>
+    <div id="success-messages"></div>
+    <div id="error-messages"></div>
+    <script src="scripts/jquery-2.0.2.js"></script>
+    <script>
+        var endpointUrl1 = 'https://api.github.com/users/ivaylokenov';
+        var endpointUrl2 = 'http://posttestserver.com/post.php?dir=example';
+
+        var testData = {
+            user: 'Test',
+            password: 12345
+        };
+
+        //module
+        var httpRequest = (function () {
+            function successCallback(data) {
+                console.log(data);
+            };
+
+            function errorCallback(err) {
+                console.log(err);
+            };
+
+            function getJSON(endpointUrl) {
+                $.getJSON(endpointUrl, successCallback)
+                    .error(errorCallback)
+                    .then(function (data) {
+                        $("#success-messages").append('<p>Get content finished!</p>');
+                    },
+                    function (err) {
+                        $("#error-messages").append('<p>Error! Something goes wrong!</p>');
+                    });
+            };
+
+            function postJSON(endpointUrl, allData) {
+                $.post(endpointUrl, allData, successCallback, 'json')
+                    .error(errorCallback)
+                    .then(function (data) {
+                        $("#success-messages").append('<p>Content is posted!</p>');
+                    },
+                    function (err) {
+                        $("#error-messages").append('<p>Error! Something goes wrong!</p>');
+                    });
+            };
+
+            return {
+                getJSON: getJSON,
+                postJSON: postJSON
+            };
+        })();
+
+        //test module
+        httpRequest.getJSON(endpointUrl1);
+        httpRequest.postJSON(endpointUrl2, testData);
+
+        
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style type="text/css">
+        #inlined {
+            float:left;
+            border: 1px solid gray;
+            width: 200px;
+            height: 150px;  
+            padding: 20px;        
+        }
+        #menu-conteiner:after {
+  content:"";
+  display:table;
+  clear:both;
+}
+
+        .message.success {
+            color: green;
+        }
+
+        .message.error {
+            color: red;
+        }
+
+        .message.error, .message.success {
+            display: none;
+        }
+
+        .student-item strong:before {
+            content: 'Name: ';
+        }
+
+        .student-item span:before {
+            content: ', Grade: ';
+        }
+    </style>
+</head>
+<body>
+<h1>The server must be started first!</h1>
+    <div id="menu-conteiner">
+        <div id="inlined">
+            <label for="tb-name">Name: </label>
+            <input id="tb-name" name="tb-name" type="text" />
+            <br />
+            <label for="tb-grade">Grade: </label>
+            <input id="tb-grade" name="tb-grade" type="number" min='1' max='12' />
+            <br />
+            <button id='btn-add-student'>Add new</button>
+        </div>
+        <div id="inlined">
+            <label for="tb-id">Id: </label>
+            <input id="tb-id" name="tb-grade" type="number" />
+            <button id='btn-delete-student'>Remove student</button>
+        </div>
+    </div>
+    
+    <div class="messages">
+        <strong class="message success">
+        </strong>
+        <strong class="message error">
+        </strong>
+    </div>
+    <div id="students-container"></div>
+    <script src="scripts/jquery-2.0.2.js"></script>
+    <script src="scripts/functions.js"></script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+﻿#login-form {
+    border: 2px solid skyblue;
+    width: 300px;
+    margin: 0 auto;
+    padding: 10px;
+    font-family:Consolas;
+    background-color:paleturquoise;
+}
+
+#chat-form {
+    border: 2px solid skyblue;
+    width: 500px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color:paleturquoise;
+}
+
+#chatbox {
+    height: 400px;
+    
+    overflow-y:scroll;
+}
