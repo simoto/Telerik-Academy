@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        canvas {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <button id='startButton'>Start Game</button>
+    <canvas id='snakeField' width='600' height='400'></canvas>
+    <script src="snake.js"></script>
+    <script type="text/javascript">
+    var startButton = document.getElementById('startButton');
+    startButton.addEventListener('click', function () {
+        snake.startGame();
+    });
+    </script>
+</body>
+</html>

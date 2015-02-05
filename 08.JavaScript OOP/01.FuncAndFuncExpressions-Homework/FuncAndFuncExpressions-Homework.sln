@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Exercise", "FuncAndFuncExpressions-Homework\01.Exercise.csproj", "{CAEEAE5C-D4A1-4E6C-AD59-22B21F4F997F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Exercise", "02.Exercise\02.Exercise.csproj", "{930C9961-19FD-4820-8F75-16DD61A7CC73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Exercise", "03.Exercise\03.Exercise.csproj", "{6D1A8228-41FF-4472-9E76-B4F420E52963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAEEAE5C-D4A1-4E6C-AD59-22B21F4F997F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAEEAE5C-D4A1-4E6C-AD59-22B21F4F997F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAEEAE5C-D4A1-4E6C-AD59-22B21F4F997F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAEEAE5C-D4A1-4E6C-AD59-22B21F4F997F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930C9961-19FD-4820-8F75-16DD61A7CC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930C9961-19FD-4820-8F75-16DD61A7CC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930C9961-19FD-4820-8F75-16DD61A7CC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930C9961-19FD-4820-8F75-16DD61A7CC73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D1A8228-41FF-4472-9E76-B4F420E52963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1A8228-41FF-4472-9E76-B4F420E52963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1A8228-41FF-4472-9E76-B4F420E52963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1A8228-41FF-4472-9E76-B4F420E52963}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

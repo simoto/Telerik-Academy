@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>AMD & RequireJS: Defining Modules Demo</title>
+	<style>
+		.person-item, .selectedPerson {
+			width: 200px;
+			padding: 10px;
+			border: 1px solid black;
+			border-radius: 10px;
+			background-color: lightgray;
+		}
+		.person-name, p {
+			text-align: center;
+			font-family: consolas;
+		}
+		
+		img {
+			padding-left: 40px;
+		}
+	</style>
+</head>
+<body>
+	<div id="mainDiv" data-template="person-template">
+        <div class="selectedPerson">Select person</div>
+    </div>
+
+    <script id="person-template" type="text/x-handlebars-template">
+        <div class="person-item" id="person-item-{{id}}">
+            <strong class="person-name">Name: {{name}}</strong><p class="person-age">Age: {{age}}</p>
+            <img src="{{avatarUrl}}" width="100px" />
+        </div>
+    </script>
+	<script src="scripts/libs/require.js" data-main="scripts/app"></script>	
+</body>
+</html>
