@@ -1,0 +1,14 @@
+E:\Uroci\High-Quality-Code\Lesson14-Refacturing\12. Refactoring-Homework\WalkInMatrix.Tests\bin\Debug\WalkInMatrix.Tests.dll
+E:\Uroci\High-Quality-Code\Lesson14-Refacturing\12. Refactoring-Homework\WalkInMatrix.Tests\bin\Debug\WalkInMatrix.Tests.pdb
+E:\Uroci\High-Quality-Code\Lesson14-Refacturing\12. Refactoring-Homework\WalkInMatrix.Tests\bin\Debug\GameFifteen.exe
+E:\Uroci\High-Quality-Code\Lesson14-Refacturing\12. Refactoring-Homework\WalkInMatrix.Tests\bin\Debug\GameFifteen.pdb
+E:\Uroci\High-Quality-Code\Lesson14-Refacturing\12. Refactoring-Homework\WalkInMatrix.Tests\obj\Debug\WalkInMatrix.Tests.csprojResolveAssemblyReference.cache
+E:\Uroci\High-Quality-Code\Lesson14-Refacturing\12. Refactoring-Homework\WalkInMatrix.Tests\obj\Debug\WalkInMatrix.Tests.dll
+E:\Uroci\High-Quality-Code\Lesson14-Refacturing\12. Refactoring-Homework\WalkInMatrix.Tests\obj\Debug\WalkInMatrix.Tests.pdb
+C:\Users\Simeon\Documents\GitHub\Telerik-Academy\10.HighQuality Code\12. Refactoring-Homework\WalkInMatrix.Tests\bin\Debug\WalkInMatrix.Tests.dll
+C:\Users\Simeon\Documents\GitHub\Telerik-Academy\10.HighQuality Code\12. Refactoring-Homework\WalkInMatrix.Tests\bin\Debug\WalkInMatrix.Tests.pdb
+C:\Users\Simeon\Documents\GitHub\Telerik-Academy\10.HighQuality Code\12. Refactoring-Homework\WalkInMatrix.Tests\bin\Debug\GameFifteen.exe
+C:\Users\Simeon\Documents\GitHub\Telerik-Academy\10.HighQuality Code\12. Refactoring-Homework\WalkInMatrix.Tests\bin\Debug\GameFifteen.pdb
+C:\Users\Simeon\Documents\GitHub\Telerik-Academy\10.HighQuality Code\12. Refactoring-Homework\WalkInMatrix.Tests\obj\Debug\WalkInMatrix.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\Documents\GitHub\Telerik-Academy\10.HighQuality Code\12. Refactoring-Homework\WalkInMatrix.Tests\obj\Debug\WalkInMatrix.Tests.dll
+C:\Users\Simeon\Documents\GitHub\Telerik-Academy\10.HighQuality Code\12. Refactoring-Homework\WalkInMatrix.Tests\obj\Debug\WalkInMatrix.Tests.pdb
