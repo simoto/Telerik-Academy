@@ -1,0 +1,6 @@
+Extensible Markup Language (XML) is a markup language that defines a set of rules for 
+encoding documents in a format that is both human-readable and machine-readable.
+The design goals of XML emphasize simplicity, generality, and usability over the Internet.
+It is a textual data format with strong support via Unicode for different human languages.
+Many application programming interfaces (APIs) have been developed to aid software developers with processing XML data,
+and several schema systems exist to aid in the definition of XML-based languages.

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ExtractXml", "02.ExtractXml\02.ExtractXml.csproj", "{652F6EBD-A122-4C57-836A-441CFB1AD728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.XmlReadingUsingReader", "05.XmlReadingUsingReader\05.XmlReadingUsingReader.csproj", "{57496CA5-82B6-41F5-AD7C-655D50B91BA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{652F6EBD-A122-4C57-836A-441CFB1AD728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652F6EBD-A122-4C57-836A-441CFB1AD728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652F6EBD-A122-4C57-836A-441CFB1AD728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{652F6EBD-A122-4C57-836A-441CFB1AD728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57496CA5-82B6-41F5-AD7C-655D50B91BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57496CA5-82B6-41F5-AD7C-655D50B91BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57496CA5-82B6-41F5-AD7C-655D50B91BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57496CA5-82B6-41F5-AD7C-655D50B91BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

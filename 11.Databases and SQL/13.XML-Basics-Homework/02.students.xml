@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<stud:students culture="en-US"
+         xmlns:stud="urn:students">
+  <stud:student>
+    <stud:name>Pesho</stud:name>
+    <stud:sex>Male</stud:sex>
+    <stud:birthdate>11-11-2000</stud:birthdate>
+    <stud:phone>0898989898</stud:phone>
+    <stud:email>peshkata@pesho.com</stud:email>
+    <stud:course>Database</stud:course>
+    <stud:specialty>C# Development</stud:specialty>
+    <stud:facultyNumber>45671234</stud:facultyNumber>
+    <stud:exams>
+      <exam>
+        <name>Math</name>
+        <tutor>Albert Einstein</tutor>
+        <score>4.0</score>
+      </exam>
+      <exam>
+        <name>Progamming</name>
+        <tutor>Nakov</tutor>
+        <score>3.0</score>
+      </exam>
+    </stud:exams>
+  </stud:student>
+
+  <stud:student>
+    <stud:name>Maria</stud:name>
+    <stud:sex>Female</stud:sex>
+    <stud:birthdate>10-11-2001</stud:birthdate>
+    <stud:phone>0888888888</stud:phone>
+    <stud:email>mariika@pesho.com</stud:email>
+    <stud:course>Database</stud:course>
+    <stud:specialty>Javascript Development</stud:specialty>
+    <stud:facultyNumber>56471234</stud:facultyNumber>
+    <stud:exams>
+      <exam>
+        <name>Math</name>
+        <tutor>Albert Einstein</tutor>
+        <score>6.0</score>
+      </exam>
+      <exam>
+        <name>Progamming</name>
+        <tutor>Nakov</tutor>
+        <score>2.0</score>
+      </exam>
+    </stud:exams>
+  </stud:student>
+</stud:students>

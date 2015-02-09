@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="Artist Catalog">
+  <albums>
+    <album>
+      <name>Kill'Em All</name>
+      <artist>Metallica</artist>
+      <year>1983</year>
+      <producer>Megaforce Records</producer>
+      <price>20.00</price>
+      <songs>
+        <song>
+          <title>Hit the Lights</title>
+          <duration>4:17</duration>
+        </song>
+        <song>
+          <title>The Four Horsemen</title>
+          <duration>7:08</duration>
+        </song>
+      </songs>
+    </album>
+
+    <album>
+      <name>Ride the Lightning</name>
+      <artist>Metallica</artist>
+      <year>1984</year>
+      <producer>Megaforce Records</producer>
+      <price>30.00</price>
+      <songs>
+        <song>
+          <title>Fight Fire With Fire</title>
+          <duration>4:45</duration>
+        </song>
+        <song>
+          <title>Ride the Lightning</title>
+          <duration>6:41</duration>
+        </song>
+      </songs>
+    </album>
+  </albums>
+</catalog>

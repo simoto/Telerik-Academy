@@ -1,0 +1,10 @@
+Create a stored procedure that accepts a number as a parameter and returns all persons who have more money in their accounts than the supplied number.
+
+CREATE PROC dbo.usp_MoreMoneyThanValue (@money money)
+AS
+  SELECT e.FirsName + ' ' + e.LastName AS FullName , a.Balance
+  FROM TelerikAcademy.dbo.Persons e, TelerikAcademy.dbo.Accounts a
+  WHERE a.Balance > @money
+GO
+
+EXEC dbo.usp_MoreMoneyThanValue 120
